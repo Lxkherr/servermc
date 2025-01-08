@@ -457,3 +457,7 @@ Caused by: java.lang.IllegalArgumentException
 [22:49:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Its_edurneee to Lxkherr]
 [22:52:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Its_edurneee to Lxkherr]
 [22:53:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Lxkherr to Its_edurneee]
+[22:55:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Its_edurneee to Lxkherr]
+[22:57:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set the time to 1000]
+[22:59:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> [name:"casa", x:169, y:65, z:338]
+[23:01:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Its_edurneee to Lxkherr]
