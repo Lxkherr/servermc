@@ -432,3 +432,28 @@ Caused by: java.lang.IllegalArgumentException
 [22:27:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr joined the game
 [22:27:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Teleported Its_edurneee to Lxkherr]
 [22:29:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee has made the advancement [A Seedy Place]
+[22:36:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr has made the advancement [Ice Bucket Challenge]
+[22:39:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Its_edurneee to Lxkherr]
+[22:39:16] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@57ea4a4c)
+[22:39:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr has made the advancement [We Need to Go Deeper]
+[22:39:20] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4057ms behind, skipping 81 tick(s)
+[22:39:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lxkherr moved too quickly! -155.32930289873363,-19.5,-283.1865381171419
+[22:39:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr has completed the challenge [Return to Sender]
+[22:40:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee has made the advancement [We Need to Go Deeper]
+[22:42:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Its_edurneee moved too quickly! -156.81592715370311,-19.5,-282.81879532400893
+[22:42:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Lxkherr to Its_edurneee]
+[22:42:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lxkherr moved too quickly! 156.7822126841762,20.5,282.9319652845712
+[22:43:00] [Server thread/INFO] [FML]: Unloading dimension -1
+[22:47:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Lxkherr to Its_edurneee]
+[22:47:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee has reached the goal [Strong or Careful]
+[22:47:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee fell from a high place
+[22:47:48] [Server thread/INFO] [tombstone]: The last known grave of Its_edurneee is at location [name:Last Grave, x:185, y:41, z:360] in the dimension 0
+[22:47:48] [Server thread/INFO] [tombstone]: Its_edurneee has successfully been saved
+[22:47:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr has reached the goal [Strong or Careful]
+[22:47:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr fell from a high place
+[22:47:49] [Server thread/INFO] [tombstone]: The last known grave of Lxkherr is at location [name:Last Grave, x:185, y:41, z:359] in the dimension 0
+[22:47:49] [Server thread/INFO] [tombstone]: Lxkherr has successfully been saved
+[22:47:50] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:49:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Its_edurneee to Lxkherr]
+[22:52:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Its_edurneee to Lxkherr]
+[22:53:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Lxkherr to Its_edurneee]
