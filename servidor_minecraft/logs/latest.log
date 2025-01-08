@@ -1,0 +1,372 @@
+[21:24:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[21:24:42] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[21:24:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[21:24:42] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[21:24:42] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[21:24:42] [main/INFO] [FML]: Searching /workspaces/servermc/servidor_minecraft/./mods for mods
+[21:24:42] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [1.12.2] SecurityCraft v1.9.12.jar
+[21:24:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:24:42] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[21:24:42] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/servermc/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.12.jar Service=LaunchWrapper Env=SERVER
+[21:24:42] [main/WARN] [FML]: The coremod SecurityCraftLoadingPlugin (net.geforcemods.securitycraft.SecurityCraftLoadingPlugin) is not signed!
+[21:24:42] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[21:24:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[21:24:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:24:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:24:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:24:44] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[21:24:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:24:44] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[21:24:44] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@155d1021
+[21:24:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[21:24:45] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[21:24:45] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[21:24:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[21:24:45] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[21:24:45] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[21:24:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[21:24:50] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[21:24:50] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[21:24:50] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[21:24:50] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[21:24:50] [Server thread/INFO] [FML]: Searching /workspaces/servermc/servidor_minecraft/./mods for mods
+[21:24:51] [Server thread/WARN] [FML]: Mod securitycraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v1.9.12
+[21:24:51] [Server thread/INFO] [FML]: Disabling mod musicplayer it is client side only.
+[21:24:51] [Server thread/ERROR] [FML]: Unable to read a class file correctly
+java.lang.IllegalArgumentException: null
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) [ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.findClassesASM(JarDiscoverer.java:102) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:77) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:47) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:74) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:93) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:427) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:568) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[21:24:51] [Server thread/ERROR] [FML]: There was a problem reading the entry com/natamus/tntbreaksbedrock/ModFabric.class in the jar ./mods/tntbreaksbedrock-1.21.4-3.4.jar - probably a corrupt zip
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.findClassesASM(JarDiscoverer.java:102) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:77) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:47) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:74) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:93) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:427) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:568) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
+	... 12 more
+[21:24:51] [Server thread/WARN] [FML]: Zip file tntbreaksbedrock-1.21.4-3.4.jar failed to read properly, it will be ignored
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.findClassesASM(JarDiscoverer.java:102) ~[JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:77) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:47) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:74) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:93) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:427) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:568) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
+	... 12 more
+[21:24:51] [Server thread/WARN] [FML]: Mod totemic is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-0.11.7
+[21:24:52] [Server thread/INFO] [FML]: Forge Mod Loader has identified 18 mods to load
+[21:24:52] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[21:24:52] [Server thread/WARN] [FML]: Missing English translation for bibliotheca: assets/bibliotheca/lang/en_us.lang
+[21:24:52] [Server thread/INFO] [FML]: FML has found a non-mod file music_player-forge-1.12.2-2.1.1.296.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[21:24:52] [Server thread/INFO] [FML]: FML has found a non-mod file tntbreaksbedrock-1.21.4-3.4.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[21:24:52] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, securitycraft, bibliotheca, cropdusting, elevatorid, glassential, hammertime, jei, journeymap, letmesleep, mca, stupidthings, tombstone, totemic, uteamcore] at CLIENT
+[21:24:52] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, securitycraft, bibliotheca, cropdusting, elevatorid, glassential, hammertime, jei, journeymap, letmesleep, mca, stupidthings, tombstone, totemic, uteamcore] at SERVER
+[21:24:53] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[21:24:53] [Server thread/INFO] [FML]: Found 1220 ObjectHolder annotations
+[21:24:53] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[21:24:53] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[21:24:53] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[21:24:53] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[21:24:54] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Found status: UP_TO_DATE Target: null
+[21:24:54] [Forge Version Check/INFO] [forge.VersionCheck]: [stupidthings] Starting version check at https://raw.githubusercontent.com/Furgl/Global-Mod-Info/master/Stupid_Things/update.json
+[21:24:54] [Forge Version Check/INFO] [forge.VersionCheck]: [stupidthings] Found status: UP_TO_DATE Target: null
+[21:24:54] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[21:24:54] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Found status: OUTDATED Target: 2.2.5.339
+[21:24:54] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[21:24:54] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemhammerwood has been registered by Bibliotheca for the mod hammertime
+[21:24:54] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemhammerstone has been registered by Bibliotheca for the mod hammertime
+[21:24:54] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemhammeriron has been registered by Bibliotheca for the mod hammertime
+[21:24:54] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemhammergold has been registered by Bibliotheca for the mod hammertime
+[21:24:54] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemhammerdiamond has been registered by Bibliotheca for the mod hammertime
+[21:24:54] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemshovelwood has been registered by Bibliotheca for the mod hammertime
+[21:24:54] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemshovelstone has been registered by Bibliotheca for the mod hammertime
+[21:24:54] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemshoveliron has been registered by Bibliotheca for the mod hammertime
+[21:24:54] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemshovelgold has been registered by Bibliotheca for the mod hammertime
+[21:24:54] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemshoveldiamond has been registered by Bibliotheca for the mod hammertime
+[21:24:54] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemaxewood has been registered by Bibliotheca for the mod hammertime
+[21:24:54] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemaxestone has been registered by Bibliotheca for the mod hammertime
+[21:24:54] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemaxeiron has been registered by Bibliotheca for the mod hammertime
+[21:24:54] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemaxegold has been registered by Bibliotheca for the mod hammertime
+[21:24:54] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemaxediamond has been registered by Bibliotheca for the mod hammertime
+[21:24:54] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemsicklewood has been registered by Bibliotheca for the mod hammertime
+[21:24:54] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemsicklestone has been registered by Bibliotheca for the mod hammertime
+[21:24:54] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemsickleiron has been registered by Bibliotheca for the mod hammertime
+[21:24:54] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemsicklegold has been registered by Bibliotheca for the mod hammertime
+[21:24:54] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemsicklediamond has been registered by Bibliotheca for the mod hammertime
+[21:24:55] [Server thread/ERROR] [mca]: Failed to GET from: https://minecraftcomesalive.com/api/latest
+[21:24:55] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[21:24:55] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[21:24:55] [Server thread/ERROR] [mca]: Failed to GET from: https://minecraftcomesalive.com/api/supporters
+[21:24:55] [Server thread/INFO] [mca]: Loaded 1 supporters.
+[21:24:55] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Found status: UP_TO_DATE Target: null
+[21:24:55] [Forge Version Check/INFO] [forge.VersionCheck]: [totemic] Starting version check at https://raw.githubusercontent.com/TeamTotemic/Totemic/version/version.json
+[21:24:55] [Server thread/INFO] [Totemic]: Moma had a cow, Moma had a chicken... Dad was proud, he didn't care how!
+[21:24:55] [Server thread/INFO] [Totemic]: Totemic is entering preinitialization stage
+[21:24:55] [Forge Version Check/INFO] [forge.VersionCheck]: [totemic] Found status: UP_TO_DATE Target: null
+[21:24:56] [Server thread/INFO] [FML]: Applying holder lookups
+[21:24:56] [Server thread/INFO] [FML]: Holder lookups applied
+[21:24:56] [Server thread/INFO] [FML]: Applying holder lookups
+[21:24:56] [Server thread/INFO] [FML]: Holder lookups applied
+[21:24:56] [Server thread/INFO] [FML]: Applying holder lookups
+[21:24:56] [Server thread/INFO] [FML]: Holder lookups applied
+[21:24:56] [Server thread/INFO] [FML]: Applying holder lookups
+[21:24:56] [Server thread/INFO] [FML]: Holder lookups applied
+[21:24:56] [Server thread/INFO] [FML]: Injecting itemstacks
+[21:24:56] [Server thread/INFO] [FML]: Itemstack injection complete
+[21:24:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[21:24:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[21:24:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[21:24:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[21:24:56] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[21:24:56] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:24:56] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[21:24:56] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:24:56] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:24:57] [Server thread/INFO] [FML]: Applying holder lookups
+[21:24:57] [Server thread/INFO] [FML]: Holder lookups applied
+[21:24:57] [Server thread/INFO] [Totemic]: Totemic is entering initialization stage
+[21:24:57] [Server thread/INFO] [FML]: Injecting itemstacks
+[21:24:57] [Server thread/INFO] [FML]: Itemstack injection complete
+[21:24:57] [Server thread/INFO] [Totemic]: Totemic is entering postinitialization stage
+[21:24:57] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 18 mods
+[21:24:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[21:24:57] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[21:24:58] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: glassential:glass_ghostly Expected: 472 Got: 509
+[21:24:58] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: glassential:glass_ethereal_reverse Expected: 474 Got: 510
+[21:24:58] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: glassential:glass_light Expected: 469 Got: 511
+[21:24:58] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: glassential:glass_dark Expected: 471 Got: 512
+[21:24:58] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: glassential:glass_clear Expected: 468 Got: 513
+[21:24:58] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: glassential:glass_redstone Expected: 470 Got: 514
+[21:24:58] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: glassential:glass_ethereal Expected: 473 Got: 515
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: hammertime:itemshoveliron Expected: 4103 Got: 4448
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: hammertime:itemhammerwood Expected: 4096 Got: 4449
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: hammertime:itemsicklestone Expected: 4112 Got: 4450
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: hammertime:itemhammerstone Expected: 4097 Got: 4451
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: mca:egg_female Expected: 4448 Got: 4452
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: mca:engagement_ring_rg Expected: 4452 Got: 4456
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: hammertime:itemaxestone Expected: 4107 Got: 4457
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: glassential:glass_light Expected: 4354 Got: 4459
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: hammertime:itemshovelgold Expected: 4104 Got: 4460
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: mca:wedding_ring_rg Expected: 4450 Got: 4462
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: mca:villager_editor Expected: 4459 Got: 4463
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: glassential:glass_ethereal Expected: 4358 Got: 4465
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: hammertime:itemaxegold Expected: 4109 Got: 4468
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: hammertime:itemhammergold Expected: 4099 Got: 4469
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: mca:staff_of_life Expected: 4460 Got: 4470
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: hammertime:itemshovelstone Expected: 4102 Got: 4471
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: hammertime:itemaxediamond Expected: 4110 Got: 4472
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: mca:rose_gold_ingot Expected: 4456 Got: 4473
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: hammertime:itemshoveldiamond Expected: 4105 Got: 4474
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: glassential:glass_ethereal_reverse Expected: 4359 Got: 4475
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: glassential:glass_cutter_iron Expected: 4360 Got: 4476
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: hammertime:itemhammeriron Expected: 4098 Got: 4477
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: mca:book_death Expected: 4462 Got: 4478
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: hammertime:itemaxeiron Expected: 4108 Got: 4479
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: mca:engagement_ring Expected: 4451 Got: 4480
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: mca:book_rose_gold Expected: 4465 Got: 4481
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: mca:rose_gold_ore Expected: 4468 Got: 4482
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: hammertime:itemsicklegold Expected: 4114 Got: 4483
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: glassential:glass_ghostly Expected: 4357 Got: 4484
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: mca:book_romance Expected: 4463 Got: 4485
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: glassential:glass_dark Expected: 4356 Got: 4486
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: glassential:glass_clear Expected: 4353 Got: 4487
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: hammertime:itemsicklewood Expected: 4111 Got: 4488
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: mca:villager_spawner Expected: 4469 Got: 4489
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: hammertime:itemsickleiron Expected: 4113 Got: 4490
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: hammertime:itemhammerdiamond Expected: 4100 Got: 4491
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: mca:wedding_ring Expected: 4449 Got: 4492
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: hammertime:itemaxewood Expected: 4106 Got: 4493
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: hammertime:itemsicklediamond Expected: 4115 Got: 4494
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: glassential:glass_redstone Expected: 4355 Got: 4495
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: mca:rose_gold_dust Expected: 4457 Got: 4496
+[21:24:58] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: hammertime:itemshovelwood Expected: 4101 Got: 4497
+[21:24:58] [Server thread/WARN] [FML]: Registry VillagerProfession: Object did not get ID it asked for. Name: mca:guard Expected: 6 Got: 11
+[21:24:58] [Server thread/INFO] [FML]: Applying holder lookups
+[21:24:58] [Server thread/INFO] [FML]: Holder lookups applied
+[21:24:58] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@57ea4a4c)
+[21:24:59] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 649 advancements
+[21:24:59] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@57ea4a4c)
+[21:24:59] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@57ea4a4c)
+[21:24:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[21:25:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 20%
+[21:25:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3.010s)! For help, type "help" or "?"
+[21:25:01] [Server thread/INFO] [FML]: Unloading dimension -1
+[21:25:01] [Server thread/INFO] [FML]: Unloading dimension 1
+[21:25:10] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[21:25:10] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 20 mods : minecraft@1.12.2,elevatorid@1.3.11,FML@8.0.99.99,tombstone@4.7.4,uteamcore@2.2.5.305,mca@6.1.0,stupidthings@1.1.6,customskinloader@14.9,jei@4.16.1.1012,letmesleep@1.2.2,bibliotheca@1.1.1-1.12.2,hammertime@2.2.0,totemic@1.12.2-0.11.7,forge@14.23.5.2860,cropdusting@0.7,musicplayer@2.1.1.296,glassential@1.1.0,mcp@9.42,journeymap@1.12.2-5.7.1,securitycraft@v1.9.12
+[21:25:10] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[21:25:10] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:25:10] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lxkherr[/100.71.123.106:53315] logged in with entity id 340 at (168.57545369022645, 65.0, 336.57536467725424)
+[21:25:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr joined the game
+[21:25:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
+[21:26:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set the time to 1000]
+[21:26:26] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[21:26:26] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 20 mods : minecraft@1.12.2,elevatorid@1.3.11,FML@8.0.99.99,tombstone@4.7.4,uteamcore@2.2.5.305,mca@6.1.0,stupidthings@1.1.6,customskinloader@14.9,jei@4.16.1.1012,letmesleep@1.2.2,bibliotheca@1.1.1-1.12.2,hammertime@2.2.0,totemic@1.12.2-0.11.7,forge@14.23.5.2860,cropdusting@0.7,musicplayer@2.1.1.296,glassential@1.1.0,mcp@9.42,journeymap@1.12.2-5.7.1,securitycraft@v1.9.12
+[21:26:26] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[21:26:27] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:26:27] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Its_edurneee[/100.94.146.84:54718] logged in with entity id 1111 at (169.29999997466803, 65.5625, 338.299999974668)
+[21:26:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee joined the game
+[21:26:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> COÑO
+[21:26:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> EL OPTIFINE
+[21:26:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> SALTE
+[21:26:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> PUAJAJAJ
+[21:26:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> te ira mejor
+[21:27:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> ahi te lo pase
+[21:27:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> el glassential si esta
+[21:27:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> ELDIABLO
+[21:27:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Its_edurneee lost connection: Disconnected
+[21:27:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee left the game
+[21:28:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lxkherr lost connection: Disconnected
+[21:28:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr left the game
+[21:29:35] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[21:29:35] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 20 mods : minecraft@1.12.2,elevatorid@1.3.11,FML@8.0.99.99,tombstone@4.7.4,uteamcore@2.2.5.305,mca@6.1.0,stupidthings@1.1.6,customskinloader@14.9,jei@4.16.1.1012,letmesleep@1.2.2,bibliotheca@1.1.1-1.12.2,hammertime@2.2.0,totemic@1.12.2-0.11.7,forge@14.23.5.2860,cropdusting@0.7,musicplayer@2.1.1.296,glassential@1.1.0,mcp@9.42,journeymap@1.12.2-5.7.1,securitycraft@v1.9.12
+[21:29:35] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[21:29:35] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:29:35] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lxkherr[/100.71.123.106:53561] logged in with entity id 5515 at (136.6435395211887, 79.0, 320.6233160375028)
+[21:29:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr joined the game
+[21:30:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lxkherr lost connection: Disconnected
+[21:30:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr left the game
+[21:30:39] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[21:30:39] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 20 mods : minecraft@1.12.2,elevatorid@1.3.11,FML@8.0.99.99,tombstone@4.7.4,uteamcore@2.2.5.305,mca@6.1.0,stupidthings@1.1.6,customskinloader@14.9,jei@4.16.1.1012,letmesleep@1.2.2,bibliotheca@1.1.1-1.12.2,hammertime@2.2.0,totemic@1.12.2-0.11.7,forge@14.23.5.2860,cropdusting@0.7,musicplayer@2.1.1.296,glassential@1.1.0,mcp@9.42,journeymap@1.12.2-5.7.1,securitycraft@v1.9.12
+[21:30:39] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[21:30:39] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:30:39] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lxkherr[/100.71.123.106:53574] logged in with entity id 7182 at (131.50019763223693, 76.0, 334.12090614261666)
+[21:30:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr joined the game
+[21:32:59] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[21:32:59] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 20 mods : minecraft@1.12.2,elevatorid@1.3.11,FML@8.0.99.99,tombstone@4.7.4,uteamcore@2.2.5.305,mca@6.1.0,stupidthings@1.1.6,customskinloader@14.9,jei@4.16.1.1012,letmesleep@1.2.2,bibliotheca@1.1.1-1.12.2,hammertime@2.2.0,totemic@1.12.2-0.11.7,forge@14.23.5.2860,cropdusting@0.7,musicplayer@2.1.1.296,glassential@1.1.0,mcp@9.42,journeymap@1.12.2-5.7.1,securitycraft@v1.9.12
+[21:32:59] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[21:33:00] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:33:00] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Its_edurneee[/100.94.146.84:54987] logged in with entity id 11725 at (134.6188649227679, 78.0, 322.5033959779399)
+[21:33:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee joined the game
+[21:33:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Its_edurneee to Lxkherr]
+[21:33:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> quito stream?¿
+[21:33:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> DIME
+[21:33:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> q
+[21:33:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> nose la verda
+[21:33:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> eldiablo
+[21:34:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> me acabas
+[21:34:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> de
+[21:34:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> pegar
+[21:34:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> ponemos musica en el botaso
+[21:35:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> en unn rato estaras medianamente activa?
+[21:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> tenemos una cosa que hacer
+[21:35:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> importante
+[21:35:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> muy
+[21:35:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> importante
+[21:35:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> si estaras
+[21:35:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> mas tarde
+[21:35:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> para hacer una cosa
+[21:35:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> HJAY QUE ACTUALIZAR
+[21:35:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> LA PLAYLIST
+[21:35:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> tienes hierro
+[21:35:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> parame
+[21:35:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> para me
+[21:35:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> sob
+[21:36:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set the time to 1000]
+[21:36:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> me dejas en el cofre
+[21:36:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> JAJAJAJ SE QUEDA CALLADA
+[21:36:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> PERDON
+[21:36:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> Q
+[21:36:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> ELQ
+[21:36:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> perolodijedebroma
+[21:36:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> A
+[21:37:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> si
+[21:37:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> avisa
+[21:37:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> q
+[21:37:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> UY
+[21:37:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Lxkherr to Its_edurneee]
+[21:38:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee has made the advancement [Monster Hunter]
+[21:38:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Spectator Mode]
+[21:38:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
+[21:38:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> y bajalo
+[21:39:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> si
+[21:39:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> coño
+[21:39:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee was killed by Witch using magic
+[21:39:22] [Server thread/INFO] [tombstone]: The last known grave of Its_edurneee is at location [name:Last Grave, x:150, y:48, z:224] in the dimension 0
+[21:39:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee has made the advancement [Your First Grave]
+[21:39:22] [Server thread/INFO] [tombstone]: Its_edurneee has successfully been saved
+[21:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> pero
+[21:39:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> avisa
+[21:39:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee has made the advancement [Knowledge of Death]
+[21:39:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee has reached the goal [Here They Come]
+[21:39:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> q
+[21:39:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> te dejo hacerte tp?
+[21:39:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> dejó
+[21:39:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Its_edurneee to Lxkherr]
+[21:39:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee has made the advancement [A Strange Grave's Dust]
+[21:39:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> PUAJAJAJJAJA
+[21:39:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> PERODN
+[21:39:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> PERDON
+[21:39:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> PERDON
+[21:39:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> PERDON
+[21:39:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> PERDON
+[21:40:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> NO
+[21:40:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Lxkherr to Its_edurneee]
+[21:40:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> ya
+[21:41:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> me costo hacer antorchast
+[21:41:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> JAJAJAJ
+[21:41:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Lxkherr to Its_edurneee]
+[21:41:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> pero los mobs te aman
+[21:41:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Lxkherr to Its_edurneee]
+[21:42:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> yo creo q les gustas
+[21:42:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Lxkherr to Its_edurneee]
+[21:42:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> ven
+[21:42:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> nao
+[21:42:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> cuando estes veni
+[21:42:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> PUAJAJAJAJA
+[21:43:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> mira
+[21:43:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> de esta mena
+[21:43:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> chill
+[21:43:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> guardalo tu si quieres
+[21:43:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> es compartido
+[21:43:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> niidea
+[21:44:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> posiblemente
+[21:44:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> descubtri una cosa
+[21:44:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> del mod
+[21:44:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> JAJAJAJAJA
+[21:44:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> si picas con el shift
+[21:44:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> picas 1
+[21:44:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> si picas sin el shift
+[21:44:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> los 9
+[21:44:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> .
