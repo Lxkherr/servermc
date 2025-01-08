@@ -9382,3 +9382,58 @@ Caused by: java.lang.IllegalArgumentException
 [22:24:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr has made the advancement [A Seedy Place]
 [22:24:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [22:25:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:25:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lxkherr lost connection: Disconnected
+[22:25:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr left the game
+[22:25:35] [Server thread/TRACE] [FML]: Handshake channel activating
+[22:25:35] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[22:25:35] [Server thread/DEBUG] [FML]:   Next: HELLO
+[22:25:35] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[22:25:35] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[22:25:35] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:20 mods->FMLHandshakeServerState$2:HELLO
+[22:25:35] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 20 mods : minecraft@1.12.2,elevatorid@1.3.11,FML@8.0.99.99,tombstone@4.7.4,uteamcore@2.2.5.305,mca@6.1.0,stupidthings@1.1.6,customskinloader@14.9,jei@4.16.1.1012,letmesleep@1.2.2,bibliotheca@1.1.1-1.12.2,hammertime@2.2.0,totemic@1.12.2-0.11.7,forge@14.23.5.2860,cropdusting@0.7,musicplayer@2.1.1.296,glassential@1.1.0,mcp@9.42,journeymap@1.12.2-5.7.1,securitycraft@v1.9.12
+[22:25:35] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[22:25:35] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[22:25:35] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[22:25:35] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[22:25:36] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[22:25:36] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[22:25:36] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[22:25:36] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:25:36] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lxkherr[/100.71.123.106:53900] logged in with entity id 93494 at (172.49406344436915, 64.9375, 332.4298720390648)
+[22:25:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr joined the game
+[22:25:36] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[22:25:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:26:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:26:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lxkherr lost connection: Disconnected
+[22:26:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr left the game
+[22:27:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:27:25] [Server thread/TRACE] [FML]: Handshake channel activating
+[22:27:25] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[22:27:25] [Server thread/DEBUG] [FML]:   Next: HELLO
+[22:27:25] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[22:27:25] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[22:27:25] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:20 mods->FMLHandshakeServerState$2:HELLO
+[22:27:25] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 20 mods : minecraft@1.12.2,elevatorid@1.3.11,FML@8.0.99.99,tombstone@4.7.4,uteamcore@2.2.5.305,mca@6.1.0,stupidthings@1.1.6,customskinloader@14.9,jei@4.16.1.1012,letmesleep@1.2.2,bibliotheca@1.1.1-1.12.2,hammertime@2.2.0,totemic@1.12.2-0.11.7,forge@14.23.5.2860,cropdusting@0.7,musicplayer@2.1.1.296,glassential@1.1.0,mcp@9.42,journeymap@1.12.2-5.7.1,securitycraft@v1.9.12
+[22:27:25] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[22:27:25] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[22:27:25] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[22:27:25] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[22:27:25] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[22:27:25] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[22:27:25] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[22:27:25] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:27:25] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[22:27:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lxkherr[/100.71.123.106:54004] logged in with entity id 95399 at (172.35724277841615, 64.9375, 332.6024610187426)
+[22:27:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr joined the game
+[22:27:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Teleported Its_edurneee to Lxkherr]
+[22:28:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:28:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:29:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:29:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee has made the advancement [A Seedy Place]
+[22:30:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:31:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:31:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:32:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:33:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:34:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:34:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
