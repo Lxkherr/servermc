@@ -9354,3 +9354,31 @@ Caused by: java.lang.IllegalArgumentException
 [22:13:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Lxkherr to Its_edurneee]
 [22:13:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [22:14:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:15:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:16:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:16:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Spectator Mode]
+[22:16:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Lxkherr to Its_edurneee]
+[22:16:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
+[22:16:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Spectator Mode]
+[22:16:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:17:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
+[22:17:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:18:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:18:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Lxkherr to Its_edurneee]
+[22:19:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:19:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Spectator Mode]
+[22:19:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
+[22:19:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Its_edurneee to Lxkherr]
+[22:19:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:20:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:21:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:21:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Lxkherr to Its_edurneee]
+[22:21:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Lxkherr to Its_edurneee]
+[22:22:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:22:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:23:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:23:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Lxkherr to Its_edurneee]
+[22:23:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee has made the advancement [Ice Bucket Challenge]
+[22:24:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr has made the advancement [A Seedy Place]
+[22:24:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:25:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
