@@ -466,3 +466,20 @@ Caused by: java.lang.IllegalArgumentException
 [23:12:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Spectator Mode]
 [23:12:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Its_edurneee> ./locate <jungle>
 [23:13:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Its_edurneee moved too quickly! 7.366580962328811,0.25799910351527444,-6.844053334468072
+[23:16:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Lxkherr to 1176.5, 43.0, -3783.5]
+[23:16:18] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
+[23:16:19] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
+[23:16:19] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
+[23:16:19] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
+[23:16:19] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[23:16:19] [Server thread/WARN] [mca]: No skin found for profession: `totemic:totemist`. A random skin will be generated.
+[23:16:19] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
+[23:16:24] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2467ms behind, skipping 49 tick(s)
+[23:16:29] [Server thread/INFO] [mca]: Villager death: Odelia. Caused by: Normand. UUID: bd6b9d3d-6d40-4e6f-a657-447befed9800
+[23:16:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
+[23:16:51] [Server thread/INFO] [mca]: Villager death: Lora. Caused by: Normand. UUID: 72966512-a9c4-4890-97a8-ce8ab36bcde8
+[23:16:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set the time to 1000]
+[23:17:03] [Server thread/INFO] [mca]: Villager death: Naomi. Caused by: Lxkherr. UUID: 68761a93-5191-4978-957f-3fee44f38fb1
+[23:18:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Its_edurneee to Lxkherr]
+[23:19:49] [Server thread/INFO] [mca]: Villager death: Concetta. Caused by: Its_edurneee. UUID: a7b03a07-3eb7-44fb-8f51-a822b4c3ff8b
+[23:25:44] [Server thread/INFO] [mca]: Villager death: Maia. Caused by: Laurence. UUID: f7afb1be-9835-45c7-b432-6be96b727ad4
