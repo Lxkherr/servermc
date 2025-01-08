@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:07:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-01-08 20:46:49 +0000"
@@ -74,6 +80,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-01-08 22:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:07:31 +0000"
     },
     "done": true
   },
@@ -440,6 +452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2025-01-08 23:06:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2025-01-08 20:46:49 +0000"
@@ -572,6 +590,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:07:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-01-08 21:45:33 +0000"
@@ -636,6 +660,12 @@
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-08 21:08:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:07:31 +0000"
     },
     "done": true
   },
@@ -891,6 +921,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:07:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-01-08 20:36:37 +0000"
@@ -1005,12 +1041,15 @@
       "frozen_river": "2025-01-08 23:03:14 +0000",
       "forest": "2025-01-08 20:27:09 +0000",
       "birch_forest": "2025-01-08 22:53:47 +0000",
+      "deep_ocean": "2025-01-08 23:07:42 +0000",
+      "beaches": "2025-01-08 23:08:03 +0000",
       "forest_hills": "2025-01-08 20:46:03 +0000",
       "plains": "2025-01-08 20:45:51 +0000",
       "ice_mountains": "2025-01-08 23:03:18 +0000",
       "taiga": "2025-01-08 22:56:55 +0000",
       "taiga_hills": "2025-01-08 23:01:09 +0000",
       "taiga_cold": "2025-01-08 23:03:49 +0000",
+      "ocean": "2025-01-08 23:07:35 +0000",
       "extreme_hills": "2025-01-08 21:00:05 +0000",
       "cold_beach": "2025-01-08 23:04:20 +0000",
       "river": "2025-01-08 20:59:15 +0000"
