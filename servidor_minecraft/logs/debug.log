@@ -9985,3 +9985,45 @@ Caused by: java.lang.IllegalArgumentException
 [23:55:28] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 435 times.
 
 [23:55:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:56:18] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 440 times.
+
+[23:56:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Its_edurneee to Lxkherr]
+[23:56:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:57:08] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 445 times.
+
+[23:57:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:57:58] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 450 times.
+
+[23:58:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:58:48] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 455 times.
+
+[23:58:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:59:38] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 460 times.
+
+[23:59:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:00:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:00:28] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 465 times.
+
+[00:00:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set the time to 1000]
+[00:01:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:01:18] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 470 times.
+
+[00:01:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:02:08] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 475 times.
+
+[00:02:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:02:58] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 480 times.
+
+[00:03:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:03:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Changing to clear weather]
+[00:03:48] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 485 times.
+
+[00:04:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:04:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Spectator Mode]
+[00:04:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
+[00:04:38] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 490 times.
+
+[00:04:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:05:28] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 495 times.
+
+[00:05:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
