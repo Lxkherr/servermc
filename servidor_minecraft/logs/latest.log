@@ -2,3 +2,25 @@
 [00:03:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Changing to clear weather]
 [00:04:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Spectator Mode]
 [00:04:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
+[00:06:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Lxkherr to Its_edurneee]
+[00:12:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr fell from a high place
+[00:12:16] [Server thread/INFO] [tombstone]: The last known grave of Lxkherr is at location [name:Last Grave, x:191, y:45, z:349] in the dimension 0
+[00:12:16] [Server thread/INFO] [tombstone]: Lxkherr has successfully been saved
+[00:12:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr has reached the goal [Here They Come]
+[00:12:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Lxkherr to Its_edurneee]
+[00:13:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr has reached the goal [Chain Death]
+[00:13:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr was slain by Its_edurneee
+[00:13:05] [Server thread/INFO] [tombstone]: The last known grave of Lxkherr is at location [name:Last Grave, x:171, y:65, z:339] in the dimension 0
+[00:13:05] [Server thread/INFO] [tombstone]: Lxkherr has successfully been saved
+[00:13:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee was slain by Lxkherr
+[00:13:45] [Server thread/INFO] [tombstone]: The last known grave of Its_edurneee is at location [name:Last Grave, x:170, y:65, z:335] in the dimension 0
+[00:13:45] [Server thread/INFO] [tombstone]: Its_edurneee has successfully been saved
+[00:13:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee has reached the goal [Chain Death]
+[00:13:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee was slain by Lxkherr
+[00:13:56] [Server thread/INFO] [tombstone]: The last known grave of Its_edurneee is at location [name:Last Grave, x:166, y:65, z:335] in the dimension 0
+[00:13:56] [Server thread/INFO] [tombstone]: Its_edurneee has successfully been saved
+[00:15:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Changing to clear weather]
+[00:15:35] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@57ea4a4c)
+[00:15:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lxkherr moved too quickly! -157.00444047776418,-19.5,-282.3383868467854
+[00:15:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lxkherr moved too quickly! 156.87810528752928,20.5,282.78119986001377
+[00:15:55] [Server thread/INFO] [FML]: Unloading dimension -1
