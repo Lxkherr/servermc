@@ -10387,3 +10387,116 @@ Caused by: java.lang.IllegalArgumentException
 
 [00:46:28] [Server thread/DEBUG] [FML]: The world 6acafb74 (world) may have leaked: seen 170 times.
 
+[00:46:38] [Server thread/DEBUG] [FML]: The world 4248aad4 (world) may have leaked: seen 185 times.
+
+[00:46:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:47:08] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 745 times.
+
+[00:47:18] [Server thread/DEBUG] [FML]: The world 6acafb74 (world) may have leaked: seen 175 times.
+
+[00:47:28] [Server thread/DEBUG] [FML]: The world 4248aad4 (world) may have leaked: seen 190 times.
+
+[00:47:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:47:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Set own game mode to Creative Mode]
+[00:47:58] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 750 times.
+
+[00:48:08] [Server thread/DEBUG] [FML]: The world 6acafb74 (world) may have leaked: seen 180 times.
+
+[00:48:18] [Server thread/DEBUG] [FML]: The world 4248aad4 (world) may have leaked: seen 195 times.
+
+[00:48:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:48:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lxkherr lost connection: Disconnected
+[00:48:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr left the game
+[00:48:32] [Server thread/TRACE] [FML]: Handshake channel activating
+[00:48:32] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[00:48:32] [Server thread/DEBUG] [FML]:   Next: HELLO
+[00:48:32] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[00:48:32] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[00:48:32] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:20 mods->FMLHandshakeServerState$2:HELLO
+[00:48:32] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 20 mods : minecraft@1.12.2,elevatorid@1.3.11,FML@8.0.99.99,tombstone@4.7.4,uteamcore@2.2.5.305,mca@6.1.0,stupidthings@1.1.6,customskinloader@14.9,jei@4.16.1.1012,letmesleep@1.2.2,bibliotheca@1.1.1-1.12.2,hammertime@2.2.0,totemic@1.12.2-0.11.7,forge@14.23.5.2860,cropdusting@0.7,musicplayer@2.1.1.296,glassential@1.1.0,mcp@9.42,journeymap@1.12.2-5.7.1,securitycraft@v1.9.12
+[00:48:32] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[00:48:32] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[00:48:32] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[00:48:32] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[00:48:32] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[00:48:32] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[00:48:32] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[00:48:32] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[00:48:33] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:48:33] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lxkherr[/100.71.123.106:54938] logged in with entity id 380506 at (-801.1125000119209, 64.0, -799.8229487338227)
+[00:48:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr joined the game
+[00:48:48] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 755 times.
+
+[00:48:58] [Server thread/DEBUG] [FML]: The world 6acafb74 (world) may have leaked: seen 185 times.
+
+[00:49:08] [Server thread/DEBUG] [FML]: The world 4248aad4 (world) may have leaked: seen 200 times.
+
+[00:49:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:49:38] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 760 times.
+
+[00:49:48] [Server thread/DEBUG] [FML]: The world 6acafb74 (world) may have leaked: seen 190 times.
+
+[00:49:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:49:58] [Server thread/DEBUG] [FML]: The world 4248aad4 (world) may have leaked: seen 205 times.
+
+[00:50:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lxkherr lost connection: Disconnected
+[00:50:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr left the game
+[00:50:03] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Its_edurneee lost connection: Disconnected
+[00:50:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee left the game
+[00:50:28] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 765 times.
+
+[00:50:38] [Server thread/DEBUG] [FML]: The world 6acafb74 (world) may have leaked: seen 195 times.
+
+[00:50:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:50:48] [Server thread/DEBUG] [FML]: The world 4248aad4 (world) may have leaked: seen 210 times.
+
+[00:51:18] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 770 times.
+
+[00:51:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:51:28] [Server thread/DEBUG] [FML]: The world 6acafb74 (world) may have leaked: seen 200 times.
+
+[00:51:38] [Server thread/DEBUG] [FML]: The world 4248aad4 (world) may have leaked: seen 215 times.
+
+[00:52:08] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 775 times.
+
+[00:52:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:52:18] [Server thread/DEBUG] [FML]: The world 6acafb74 (world) may have leaked: seen 205 times.
+
+[00:52:28] [Server thread/DEBUG] [FML]: The world 4248aad4 (world) may have leaked: seen 220 times.
+
+[00:52:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:52:58] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 780 times.
+
+[00:53:08] [Server thread/DEBUG] [FML]: The world 6acafb74 (world) may have leaked: seen 210 times.
+
+[00:53:18] [Server thread/DEBUG] [FML]: The world 4248aad4 (world) may have leaked: seen 225 times.
+
+[00:53:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:53:48] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 785 times.
+
+[00:53:58] [Server thread/DEBUG] [FML]: The world 6acafb74 (world) may have leaked: seen 215 times.
+
+[00:54:08] [Server thread/DEBUG] [FML]: The world 4248aad4 (world) may have leaked: seen 230 times.
+
+[00:54:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:54:38] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 790 times.
+
+[00:54:48] [Server thread/DEBUG] [FML]: The world 6acafb74 (world) may have leaked: seen 220 times.
+
+[00:54:58] [Server thread/DEBUG] [FML]: The world 4248aad4 (world) may have leaked: seen 235 times.
+
+[00:55:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:55:28] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 795 times.
+
+[00:55:38] [Server thread/DEBUG] [FML]: The world 6acafb74 (world) may have leaked: seen 225 times.
+
+[00:55:48] [Server thread/DEBUG] [FML]: The world 4248aad4 (world) may have leaked: seen 240 times.
+
+[00:55:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:56:18] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 800 times.
+
+[00:56:28] [Server thread/DEBUG] [FML]: The world 6acafb74 (world) may have leaked: seen 230 times.
+
+[00:56:38] [Server thread/DEBUG] [FML]: The world 4248aad4 (world) may have leaked: seen 245 times.
+
+[00:56:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
