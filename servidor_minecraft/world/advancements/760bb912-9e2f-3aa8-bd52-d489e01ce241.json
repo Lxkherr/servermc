@@ -1152,6 +1152,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-01-09 00:18:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_the_recipe": "2025-01-08 22:05:38 +0000"

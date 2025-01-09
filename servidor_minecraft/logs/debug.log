@@ -10088,3 +10088,101 @@ Caused by: java.lang.IllegalArgumentException
 [00:15:55] [Server thread/DEBUG] [FML]: Queueing dimension -1 to unload
 [00:15:55] [Server thread/INFO] [FML]: Unloading dimension -1
 [00:16:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:16:18] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 560 times.
+
+[00:16:38] [Server thread/DEBUG] [FML]: The world 4248aad4 (world) may have leaked: first encounter (5 occurrences).
+
+[00:16:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:17:08] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 565 times.
+
+[00:17:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee was slain by Lxkherr
+[00:17:28] [Server thread/INFO] [tombstone]: The last known grave of Its_edurneee is at location [name:Last Grave, x:168, y:65, z:338] in the dimension 0
+[00:17:28] [Server thread/INFO] [tombstone]: Its_edurneee has successfully been saved
+[00:17:28] [Server thread/DEBUG] [FML]: The world 4248aad4 (world) may have leaked: seen 10 times.
+
+[00:17:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:17:45] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@57ea4a4c)
+[00:17:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lxkherr moved too quickly! -154.80000001192093,-19.5,-282.70568354099765
+[00:17:58] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 570 times.
+
+[00:18:09] [Server thread/DEBUG] [FML]: Queueing dimension -1 to unload
+[00:18:09] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:18:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lxkherr moved too quickly! 157.19999998807907,20.5,282.99096125828993
+[00:18:18] [Server thread/DEBUG] [FML]: The world 4248aad4 (world) may have leaked: seen 15 times.
+
+[00:18:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:18:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee has made the advancement [Ashes 'n Bones]
+[00:18:48] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 575 times.
+
+[00:18:58] [Server thread/DEBUG] [FML]: The world 6acafb74 (world) may have leaked: first encounter (5 occurrences).
+
+[00:19:08] [Server thread/DEBUG] [FML]: The world 4248aad4 (world) may have leaked: seen 20 times.
+
+[00:19:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:19:38] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 580 times.
+
+[00:19:48] [Server thread/DEBUG] [FML]: The world 6acafb74 (world) may have leaked: seen 10 times.
+
+[00:19:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:19:58] [Server thread/DEBUG] [FML]: The world 4248aad4 (world) may have leaked: seen 25 times.
+
+[00:20:28] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 585 times.
+
+[00:20:38] [Server thread/DEBUG] [FML]: The world 6acafb74 (world) may have leaked: seen 15 times.
+
+[00:20:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:20:48] [Server thread/DEBUG] [FML]: The world 4248aad4 (world) may have leaked: seen 30 times.
+
+[00:21:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Creative Mode]
+[00:21:18] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 590 times.
+
+[00:21:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:21:28] [Server thread/DEBUG] [FML]: The world 6acafb74 (world) may have leaked: seen 20 times.
+
+[00:21:38] [Server thread/DEBUG] [FML]: The world 4248aad4 (world) may have leaked: seen 35 times.
+
+[00:21:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
+[00:22:08] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 595 times.
+
+[00:22:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:22:18] [Server thread/DEBUG] [FML]: The world 6acafb74 (world) may have leaked: seen 25 times.
+
+[00:22:28] [Server thread/DEBUG] [FML]: The world 4248aad4 (world) may have leaked: seen 40 times.
+
+[00:22:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:22:58] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 600 times.
+
+[00:23:08] [Server thread/DEBUG] [FML]: The world 6acafb74 (world) may have leaked: seen 30 times.
+
+[00:23:18] [Server thread/DEBUG] [FML]: The world 4248aad4 (world) may have leaked: seen 45 times.
+
+[00:23:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:23:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Creative Mode]
+[00:23:48] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 605 times.
+
+[00:23:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
+[00:23:58] [Server thread/DEBUG] [FML]: The world 6acafb74 (world) may have leaked: seen 35 times.
+
+[00:24:08] [Server thread/DEBUG] [FML]: The world 4248aad4 (world) may have leaked: seen 50 times.
+
+[00:24:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Creative Mode]
+[00:24:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:24:38] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 610 times.
+
+[00:24:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
+[00:24:48] [Server thread/DEBUG] [FML]: The world 6acafb74 (world) may have leaked: seen 40 times.
+
+[00:24:58] [Server thread/DEBUG] [FML]: The world 4248aad4 (world) may have leaked: seen 55 times.
+
+[00:25:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:25:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Creative Mode]
+[00:25:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
+[00:25:28] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 615 times.
+
+[00:25:38] [Server thread/DEBUG] [FML]: The world 6acafb74 (world) may have leaked: seen 45 times.
+
+[00:25:48] [Server thread/DEBUG] [FML]: The world 4248aad4 (world) may have leaked: seen 60 times.
+
+[00:25:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:26:18] [Server thread/DEBUG] [FML]: The world 35bc28a6 (world) may have leaked: seen 620 times.
+

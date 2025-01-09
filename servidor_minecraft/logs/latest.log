@@ -24,3 +24,19 @@
 [00:15:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lxkherr moved too quickly! -157.00444047776418,-19.5,-282.3383868467854
 [00:15:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lxkherr moved too quickly! 156.87810528752928,20.5,282.78119986001377
 [00:15:55] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:17:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee was slain by Lxkherr
+[00:17:28] [Server thread/INFO] [tombstone]: The last known grave of Its_edurneee is at location [name:Last Grave, x:168, y:65, z:338] in the dimension 0
+[00:17:28] [Server thread/INFO] [tombstone]: Its_edurneee has successfully been saved
+[00:17:45] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@57ea4a4c)
+[00:17:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lxkherr moved too quickly! -154.80000001192093,-19.5,-282.70568354099765
+[00:18:09] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:18:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lxkherr moved too quickly! 157.19999998807907,20.5,282.99096125828993
+[00:18:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee has made the advancement [Ashes 'n Bones]
+[00:21:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Creative Mode]
+[00:21:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
+[00:23:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Creative Mode]
+[00:23:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
+[00:24:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Creative Mode]
+[00:24:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
+[00:25:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Creative Mode]
+[00:25:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
