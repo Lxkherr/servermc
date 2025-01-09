@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "totemic:recipes/totempedia": {
+    "criteria": {
+      "has_paper": "2025-01-09 00:45:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 20:56:46 +0000"
@@ -522,6 +528,12 @@
   "tombstone:tutorial/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-01-08 21:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-09 00:39:15 +0000"
     },
     "done": true
   },
@@ -1177,6 +1189,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-08 21:08:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-01-09 00:45:34 +0000"
     },
     "done": true
   },
