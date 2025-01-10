@@ -1924,3 +1924,8 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [20:23:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [20:23:33] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [112, -63] in dimension 0 (overworld) while populating chunk [112, -64], causing cascading worldgen lag.
 [20:23:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:32:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr was shot by Skeleton
+[20:33:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Changing to clear weather]
+[20:33:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Spectator Mode]
+[20:33:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set the time to 1000]
+[20:33:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
