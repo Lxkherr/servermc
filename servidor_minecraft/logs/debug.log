@@ -5679,3 +5679,19 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [20:53:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:53:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:54:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:55:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:56:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:56:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:57:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:58:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:59:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:59:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:00:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:01:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:02:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Changing to clear weather]
+[21:02:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:02:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Spectator Mode]
+[21:02:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
+[21:02:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:03:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:04:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
