@@ -1939,3 +1939,12 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [21:17:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Changing to clear weather]
 [21:17:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set the time to 1000]
 [21:18:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
+[21:55:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set the time to 1000]
+[21:55:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Spectator Mode]
+[21:55:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
+[22:01:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set the time to 1000]
+[22:02:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Creative Mode]
+[22:03:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
+[22:05:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lxkherr was kicked for floating a vehicle too long!
+[22:05:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lxkherr lost connection: Flying is not enabled on this server
+[22:05:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr left the game

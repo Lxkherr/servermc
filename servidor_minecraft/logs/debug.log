@@ -5768,3 +5768,25 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [21:53:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:54:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:55:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:55:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set the time to 1000]
+[21:55:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Spectator Mode]
+[21:55:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
+[21:56:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:56:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:57:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:58:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:59:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:59:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:00:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:01:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:01:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set the time to 1000]
+[22:02:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:02:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:02:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Creative Mode]
+[22:03:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
+[22:03:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:04:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:05:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:05:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lxkherr was kicked for floating a vehicle too long!
+[22:05:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lxkherr lost connection: Flying is not enabled on this server
+[22:05:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr left the game
