@@ -5534,3 +5534,31 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [19:53:56] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lxkherr[/100.71.123.106:58660] logged in with entity id 94424 at (1513.2868652767997, 101.22605395215196, -1156.6815050871967)
 [19:53:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr joined the game
 [19:53:56] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[19:54:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:54:50] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [123, -75] in dimension 0 (overworld) while populating chunk [123, -74], causing cascading worldgen lag.
+[19:54:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:54:54] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [123, -72] in dimension 0 (overworld) while populating chunk [123, -73], causing cascading worldgen lag.
+[19:54:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:54:54] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [124, -72] in dimension 0 (overworld) while populating chunk [123, -72], causing cascading worldgen lag.
+[19:54:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:55:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:55:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set the time to 1000]
+[19:56:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:56:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee has made the advancement [Not Today, Thank You]
+[19:56:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:57:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee was shot by Skeleton
+[19:57:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr fell from a high place
+[19:57:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:57:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr fell from a high place
+[19:58:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:59:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:59:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:00:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Spectator Mode]
+[20:00:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:00:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
+[20:01:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee was shot by Skeleton
+[20:02:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:02:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:03:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:04:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

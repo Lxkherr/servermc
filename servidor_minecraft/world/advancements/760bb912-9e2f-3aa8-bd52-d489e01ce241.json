@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-01-10 19:57:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2025-01-10 19:53:11 +0000"
@@ -179,9 +185,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2025-01-10 19:55:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2025-01-10 18:58:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-10 19:56:40 +0000"
     },
     "done": true
   },
@@ -212,6 +230,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-01-10 19:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-10 19:57:17 +0000"
     },
     "done": true
   },
@@ -263,9 +287,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-01-10 19:56:28 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-01-10 19:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-01-10 19:59:05 +0000"
     },
     "done": true
   },
@@ -347,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_the_recipe": "2025-01-10 19:55:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2025-01-10 19:53:11 +0000"
@@ -422,6 +464,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-01-10 19:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2025-01-10 19:58:10 +0000"
     },
     "done": true
   },
@@ -648,6 +696,12 @@
   "minecraft:recipes/misc/bone_meal_from_block": {
     "criteria": {
       "has_the_recipe": "2025-01-10 19:53:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2025-01-10 19:59:05 +0000"
     },
     "done": true
   },
