@@ -1893,3 +1893,8 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [20:00:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Spectator Mode]
 [20:00:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
 [20:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee was shot by Skeleton
+[20:05:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Its_edurneee to Lxkherr]
+[20:07:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Set own game mode to Spectator Mode]
+[20:07:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Set own game mode to Survival Mode]
+[20:08:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr has made the advancement [Diamonds!]
+[20:14:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee has made the advancement [Hot Stuff]
