@@ -5709,3 +5709,21 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [21:13:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:14:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:14:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:15:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:16:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:17:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:17:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Spectator Mode]
+[21:17:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Creative Mode]
+[21:17:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Changing to clear weather]
+[21:17:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set the time to 1000]
+[21:17:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:18:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
+[21:18:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:19:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:20:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:20:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:21:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:22:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:23:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:23:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:24:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
