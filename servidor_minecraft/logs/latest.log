@@ -430,3 +430,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'playerstorage:interface'
 [20:21:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> YA
 [20:22:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set the time to 1000]
 [20:22:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Changing to clear weather]
+[20:22:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> ERES UN PERRO
+[20:25:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Set own game mode to Creative Mode]
+[20:26:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Set own game mode to Spectator Mode]
+[20:26:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Set own game mode to Survival Mode]
+[20:30:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Spectator Mode]
+[20:30:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Set own game mode to Spectator Mode]
+[20:30:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
+[20:30:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Set own game mode to Survival Mode]
+[20:31:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Changing to clear weather]
