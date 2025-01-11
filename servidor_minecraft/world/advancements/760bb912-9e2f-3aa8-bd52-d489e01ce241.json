@@ -1288,9 +1288,13 @@
       "birch_forest": "2025-01-10 18:56:04 +0000",
       "deep_ocean": "2025-01-10 19:01:32 +0000",
       "beaches": "2025-01-10 18:59:26 +0000",
+      "desert_hills": "2025-01-11 01:03:29 +0000",
+      "forest_hills": "2025-01-11 00:38:12 +0000",
       "plains": "2025-01-10 19:47:18 +0000",
+      "savanna": "2025-01-11 00:55:27 +0000",
       "ocean": "2025-01-10 18:55:15 +0000",
-      "river": "2025-01-10 19:01:21 +0000"
+      "river": "2025-01-10 19:01:21 +0000",
+      "desert": "2025-01-11 01:03:07 +0000"
     },
     "done": false
   },
@@ -1378,6 +1382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2025-01-11 00:54:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2025-01-10 18:59:35 +0000"
@@ -1441,6 +1451,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-01-10 22:56:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 00:54:48 +0000"
     },
     "done": true
   },
