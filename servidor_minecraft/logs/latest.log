@@ -419,3 +419,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'playerstorage:interface'
 [19:57:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Given [Wheat] * 10 to Lxkherr]
 [19:58:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set the time to 1000]
 [20:00:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Changing to clear weather]
+[20:20:12] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[20:20:12] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 37 mods : minecraft@1.12.2,baubles@1.5.2,ironfurnaces@1.3.5,xray@2.0.0,stupidthings@1.1.6,customskinloader@14.9,deconstruction@3.0.4,jei@4.16.1.1012,hammertime@2.2.0,totemic@1.12.2-0.11.7,cropdusting@0.7,musicplayer@2.1.1.296,glassential@1.1.0,mcp@9.42,journeymap@1.12.2-5.7.1,securitycraft@v1.9.12,dungeondq@10.00,travelersbackpack@1.0.34,elevatorid@1.3.11,playerstorage@1.3.12,FML@8.0.99.99,bookshelf@2.3.590,soggytransportation@1.12.2-1.0.0.0,uteamcore@2.2.5.305,tinymobfarm@1.0.5,limelib@1.7.12,waila@1.8.26,letmesleep@1.2.2,thedragonlib@1.12.2-5.3.0,bibliotheca@1.1.1-1.12.2,bookworm@1.12.2-2.5.2.1,byg@1.7.1,thaumcraft@6.1.BETA26,forge@14.23.5.2860,armorplus@1.12.2-11.28.0.69,chococraft@3.1.415.0,eplus@5.0.176
+[20:20:12] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[20:20:14] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:20:14] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Its_edurneee[/100.94.146.84:58926] logged in with entity id 17637 at (1474.699999988079, 61.0, -1115.300000011921)
+[20:20:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee joined the game
+[20:20:14] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Its_edurneee'/17637, l='world', x=1474.70, y=61.00, z=-1115.30] connected. Sending ping
+[20:20:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set Its_edurneee's game mode to Survival Mode]
+[20:21:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> YA
+[20:22:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set the time to 1000]
+[20:22:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Changing to clear weather]
