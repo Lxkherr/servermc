@@ -1,45 +1,45 @@
-[17:18:36] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[17:18:36] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[17:18:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[17:18:36] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[17:18:36] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[17:18:38] [main/INFO] [FML]: Searching /workspaces/servermc/servidor_minecraft/./mods for mods
-[17:18:38] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [1.12.2] SecurityCraft v1.9.12.jar
-[17:18:38] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_E3 (1).jar
-[17:18:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[17:18:38] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[17:18:39] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/servermc/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.12.jar Service=LaunchWrapper Env=SERVER
-[17:18:39] [main/WARN] [FML]: The coremod SecurityCraftLoadingPlugin (net.geforcemods.securitycraft.SecurityCraftLoadingPlugin) is not signed!
-[17:18:39] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[17:18:39] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
-[17:18:39] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[17:18:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[17:18:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[17:18:39] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
-[17:18:39] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
-[17:18:39] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
-[17:18:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:18:40] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[17:18:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:18:40] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[17:18:40] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@5b6e8f77
-[17:18:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[17:18:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[17:18:41] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[17:18:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[17:18:41] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[17:18:41] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
-[17:18:42] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[17:18:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[17:18:45] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[17:18:45] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[17:18:46] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[17:18:46] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[17:18:46] [Server thread/INFO] [FML]: Searching /workspaces/servermc/servidor_minecraft/./mods for mods
-[17:18:47] [Server thread/WARN] [FML]: Mod securitycraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v1.9.12
-[17:18:47] [Server thread/WARN] [FML]: Mod deconstruction is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.0.4
-[17:18:49] [Server thread/INFO] [FML]: Disabling mod musicplayer it is client side only.
-[17:18:49] [Server thread/ERROR] [FML]: Unable to read a class file correctly
+[19:42:17] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[19:42:17] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[19:42:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[19:42:17] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[19:42:17] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[19:42:17] [main/INFO] [FML]: Searching /workspaces/servermc/servidor_minecraft/./mods for mods
+[19:42:17] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [1.12.2] SecurityCraft v1.9.12.jar
+[19:42:17] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_E3 (1).jar
+[19:42:17] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:42:17] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[19:42:17] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/servermc/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.12.jar Service=LaunchWrapper Env=SERVER
+[19:42:17] [main/WARN] [FML]: The coremod SecurityCraftLoadingPlugin (net.geforcemods.securitycraft.SecurityCraftLoadingPlugin) is not signed!
+[19:42:17] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[19:42:17] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[19:42:17] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:42:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:42:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:42:17] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[19:42:17] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[19:42:17] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
+[19:42:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:42:19] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[19:42:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:42:19] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[19:42:19] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@6d6cb754
+[19:42:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:42:19] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:42:19] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[19:42:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:42:19] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[19:42:19] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[19:42:19] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[19:42:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[19:42:23] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[19:42:23] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[19:42:23] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[19:42:23] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[19:42:24] [Server thread/INFO] [FML]: Searching /workspaces/servermc/servidor_minecraft/./mods for mods
+[19:42:24] [Server thread/WARN] [FML]: Mod securitycraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v1.9.12
+[19:42:24] [Server thread/WARN] [FML]: Mod deconstruction is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.0.4
+[19:42:25] [Server thread/INFO] [FML]: Disabling mod musicplayer it is client side only.
+[19:42:25] [Server thread/ERROR] [FML]: Unable to read a class file correctly
 java.lang.IllegalArgumentException: null
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
@@ -57,7 +57,7 @@ java.lang.IllegalArgumentException: null
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[17:18:49] [Server thread/ERROR] [FML]: There was a problem reading the entry com/natamus/tntbreaksbedrock/ModFabric.class in the jar ./mods/tntbreaksbedrock-1.21.4-3.4.jar - probably a corrupt zip
+[19:42:25] [Server thread/ERROR] [FML]: There was a problem reading the entry com/natamus/tntbreaksbedrock/ModFabric.class in the jar ./mods/tntbreaksbedrock-1.21.4-3.4.jar - probably a corrupt zip
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -79,7 +79,7 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 12 more
-[17:18:49] [Server thread/WARN] [FML]: Zip file tntbreaksbedrock-1.21.4-3.4.jar failed to read properly, it will be ignored
+[19:42:25] [Server thread/WARN] [FML]: Zip file tntbreaksbedrock-1.21.4-3.4.jar failed to read properly, it will be ignored
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -101,91 +101,92 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 12 more
-[17:18:49] [Server thread/WARN] [FML]: Mod totemic is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-0.11.7
-[17:18:49] [Server thread/INFO] [FML]: Forge Mod Loader has identified 31 mods to load
-[17:18:49] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[17:18:49] [Server thread/WARN] [FML]: Missing English translation for bibliotheca: assets/bibliotheca/lang/en_us.lang
-[17:18:49] [Server thread/INFO] [FML]: FML has found a non-mod file music_player-forge-1.12.2-2.1.1.296.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[17:18:49] [Server thread/INFO] [FML]: FML has found a non-mod file tntbreaksbedrock-1.21.4-3.4.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[17:18:50] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, securitycraft, deconstruction, armorplus, baubles, bibliotheca, byg, bookshelf, bookworm, chococraft, cropdusting, dungeondq, elevatorid, eplus, glassential, hammertime, ironfurnaces, jei, journeymap, letmesleep, soggytransportation, stupidthings, thaumcraft, thedragonlib, tinymobfarm, totemic, travelersbackpack, uteamcore] at CLIENT
-[17:18:50] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, securitycraft, deconstruction, armorplus, baubles, bibliotheca, byg, bookshelf, bookworm, chococraft, cropdusting, dungeondq, elevatorid, eplus, glassential, hammertime, ironfurnaces, jei, journeymap, letmesleep, soggytransportation, stupidthings, thaumcraft, thedragonlib, tinymobfarm, totemic, travelersbackpack, uteamcore] at SERVER
-[17:18:51] [Server thread/INFO] [thedragonlib]: Welcoming Minecraft
-[17:18:51] [Server thread/INFO] [armorplus]: Welcoming Minecraft
-[17:18:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `armorplus` for name `empty`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[17:18:51] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[17:18:53] [Server thread/INFO] [FML]: Found 2285 ObjectHolder annotations
-[17:18:53] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[17:18:53] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[17:18:53] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[17:18:53] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[17:18:54] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[17:18:54] [Forge Version Check/INFO] [forge.VersionCheck]: [deconstruction] Starting version check at https://pastebin.com/raw/T1yNnPqG
-[17:18:54] [Forge Version Check/INFO] [forge.VersionCheck]: [deconstruction] Found status: UP_TO_DATE Target: null
-[17:18:54] [Forge Version Check/INFO] [forge.VersionCheck]: [thedragonlib] Starting version check at https://cdn.tdt.pw/thedragonlib-updater.json
-[17:18:54] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[17:18:54] [Server thread/INFO] [thedragonlib]: Finished PreInitialization
-[17:18:55] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Found status: UP_TO_DATE Target: null
-[17:18:55] [Forge Version Check/INFO] [forge.VersionCheck]: [armorplus] Starting version check at https://raw.githubusercontent.com/sokratis12GR/ArmorPlus/1.12/armorplus-updater.json
-[17:18:55] [Forge Version Check/INFO] [forge.VersionCheck]: [armorplus] Found status: UP_TO_DATE Target: null
-[17:18:55] [Forge Version Check/INFO] [forge.VersionCheck]: [stupidthings] Starting version check at https://raw.githubusercontent.com/Furgl/Global-Mod-Info/master/Stupid_Things/update.json
-[17:18:55] [Forge Version Check/INFO] [forge.VersionCheck]: [stupidthings] Found status: UP_TO_DATE Target: null
-[17:18:55] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
-[17:18:55] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Found status: OUTDATED Target: 2.2.5.339
-[17:18:55] [Forge Version Check/INFO] [forge.VersionCheck]: [totemic] Starting version check at https://raw.githubusercontent.com/TeamTotemic/Totemic/version/version.json
-[17:18:55] [Forge Version Check/INFO] [forge.VersionCheck]: [totemic] Found status: UP_TO_DATE Target: null
-[17:18:55] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[17:18:55] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: UP_TO_DATE Target: null
-[17:18:57] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemhammerwood has been registered by Bibliotheca for the mod hammertime
-[17:18:57] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemhammerstone has been registered by Bibliotheca for the mod hammertime
-[17:18:57] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemhammeriron has been registered by Bibliotheca for the mod hammertime
-[17:18:57] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemhammergold has been registered by Bibliotheca for the mod hammertime
-[17:18:57] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemhammerdiamond has been registered by Bibliotheca for the mod hammertime
-[17:18:57] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemshovelwood has been registered by Bibliotheca for the mod hammertime
-[17:18:57] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemshovelstone has been registered by Bibliotheca for the mod hammertime
-[17:18:57] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemshoveliron has been registered by Bibliotheca for the mod hammertime
-[17:18:57] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemshovelgold has been registered by Bibliotheca for the mod hammertime
-[17:18:57] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemshoveldiamond has been registered by Bibliotheca for the mod hammertime
-[17:18:57] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemaxewood has been registered by Bibliotheca for the mod hammertime
-[17:18:57] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemaxestone has been registered by Bibliotheca for the mod hammertime
-[17:18:57] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemaxeiron has been registered by Bibliotheca for the mod hammertime
-[17:18:57] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemaxegold has been registered by Bibliotheca for the mod hammertime
-[17:18:57] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemaxediamond has been registered by Bibliotheca for the mod hammertime
-[17:18:57] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemsicklewood has been registered by Bibliotheca for the mod hammertime
-[17:18:57] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemsicklestone has been registered by Bibliotheca for the mod hammertime
-[17:18:57] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemsickleiron has been registered by Bibliotheca for the mod hammertime
-[17:18:57] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemsicklegold has been registered by Bibliotheca for the mod hammertime
-[17:18:57] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemsicklediamond has been registered by Bibliotheca for the mod hammertime
-[17:18:57] [Server thread/INFO] [Totemic]: Moma had a cow, Moma had a chicken... Dad was proud, he didn't care how!
-[17:18:57] [Server thread/INFO] [Totemic]: Totemic is entering preinitialization stage
-[17:18:57] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
-[17:18:57] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
-[17:18:57] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
-[17:18:57] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
-[17:18:57] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
-[17:18:57] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
-[17:18:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `eplus.advanced.table`, expected `eplus`. This could be a intended override, but in most cases indicates a broken mod.
-[17:18:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `eplus.decorative.book`, expected `eplus`. This could be a intended override, but in most cases indicates a broken mod.
-[17:18:57] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
-[17:18:58] [Server thread/INFO] [FML]: Applying holder lookups
-[17:18:58] [Server thread/INFO] [FML]: Holder lookups applied
-[17:18:58] [Server thread/INFO] [FML]: Applying holder lookups
-[17:18:58] [Server thread/INFO] [FML]: Holder lookups applied
-[17:18:59] [Server thread/INFO] [FML]: Applying holder lookups
-[17:18:59] [Server thread/INFO] [FML]: Holder lookups applied
-[17:18:59] [Server thread/INFO] [FML]: Applying holder lookups
-[17:18:59] [Server thread/INFO] [FML]: Holder lookups applied
-[17:18:59] [Server thread/INFO] [FML]: Injecting itemstacks
-[17:18:59] [Server thread/INFO] [FML]: Itemstack injection complete
-[17:18:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[17:18:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[17:18:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[17:18:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[17:18:59] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[17:18:59] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:18:59] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[17:18:59] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:18:59] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:18:59] [Server thread/ERROR] [FML]: Parsing error loading recipe byg:rsbpp
+[19:42:25] [Server thread/WARN] [FML]: Mod totemic is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-0.11.7
+[19:42:25] [Server thread/INFO] [FML]: Forge Mod Loader has identified 34 mods to load
+[19:42:26] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[19:42:26] [Server thread/WARN] [FML]: Missing English translation for bibliotheca: assets/bibliotheca/lang/en_us.lang
+[19:42:26] [Server thread/WARN] [FML]: Missing English translation for limelib: assets/limelib/lang/en_us.lang
+[19:42:26] [Server thread/INFO] [FML]: FML has found a non-mod file music_player-forge-1.12.2-2.1.1.296.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[19:42:26] [Server thread/INFO] [FML]: FML has found a non-mod file tntbreaksbedrock-1.21.4-3.4.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[19:42:26] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, securitycraft, deconstruction, armorplus, baubles, bibliotheca, byg, bookshelf, bookworm, chococraft, cropdusting, dungeondq, elevatorid, eplus, glassential, hammertime, waila, ironfurnaces, jei, journeymap, letmesleep, limelib, playerstorage, soggytransportation, stupidthings, thaumcraft, thedragonlib, tinymobfarm, totemic, travelersbackpack, uteamcore] at CLIENT
+[19:42:26] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, securitycraft, deconstruction, armorplus, baubles, bibliotheca, byg, bookshelf, bookworm, chococraft, cropdusting, dungeondq, elevatorid, eplus, glassential, hammertime, waila, ironfurnaces, jei, journeymap, letmesleep, limelib, playerstorage, soggytransportation, stupidthings, thaumcraft, thedragonlib, tinymobfarm, totemic, travelersbackpack, uteamcore] at SERVER
+[19:42:27] [Server thread/INFO] [thedragonlib]: Welcoming Minecraft
+[19:42:27] [Server thread/INFO] [armorplus]: Welcoming Minecraft
+[19:42:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `armorplus` for name `empty`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:42:28] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[19:42:29] [Server thread/INFO] [FML]: Found 2285 ObjectHolder annotations
+[19:42:29] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[19:42:29] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[19:42:29] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[19:42:29] [Forge Version Check/INFO] [forge.VersionCheck]: [totemic] Starting version check at https://raw.githubusercontent.com/TeamTotemic/Totemic/version/version.json
+[19:42:30] [Forge Version Check/INFO] [forge.VersionCheck]: [totemic] Found status: UP_TO_DATE Target: null
+[19:42:30] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[19:42:30] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[19:42:30] [Forge Version Check/INFO] [forge.VersionCheck]: [stupidthings] Starting version check at https://raw.githubusercontent.com/Furgl/Global-Mod-Info/master/Stupid_Things/update.json
+[19:42:30] [Forge Version Check/INFO] [forge.VersionCheck]: [stupidthings] Found status: UP_TO_DATE Target: null
+[19:42:30] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[19:42:30] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: UP_TO_DATE Target: null
+[19:42:30] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[19:42:31] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Found status: UP_TO_DATE Target: null
+[19:42:31] [Forge Version Check/INFO] [forge.VersionCheck]: [deconstruction] Starting version check at https://pastebin.com/raw/T1yNnPqG
+[19:42:31] [Forge Version Check/INFO] [forge.VersionCheck]: [deconstruction] Found status: UP_TO_DATE Target: null
+[19:42:31] [Forge Version Check/INFO] [forge.VersionCheck]: [thedragonlib] Starting version check at https://cdn.tdt.pw/thedragonlib-updater.json
+[19:42:31] [Server thread/INFO] [thedragonlib]: Finished PreInitialization
+[19:42:31] [Forge Version Check/INFO] [forge.VersionCheck]: [armorplus] Starting version check at https://raw.githubusercontent.com/sokratis12GR/ArmorPlus/1.12/armorplus-updater.json
+[19:42:31] [Forge Version Check/INFO] [forge.VersionCheck]: [armorplus] Found status: UP_TO_DATE Target: null
+[19:42:31] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[19:42:31] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Found status: OUTDATED Target: 2.2.5.339
+[19:42:33] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemhammerwood has been registered by Bibliotheca for the mod hammertime
+[19:42:33] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemhammerstone has been registered by Bibliotheca for the mod hammertime
+[19:42:33] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemhammeriron has been registered by Bibliotheca for the mod hammertime
+[19:42:33] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemhammergold has been registered by Bibliotheca for the mod hammertime
+[19:42:33] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemhammerdiamond has been registered by Bibliotheca for the mod hammertime
+[19:42:33] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemshovelwood has been registered by Bibliotheca for the mod hammertime
+[19:42:33] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemshovelstone has been registered by Bibliotheca for the mod hammertime
+[19:42:33] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemshoveliron has been registered by Bibliotheca for the mod hammertime
+[19:42:33] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemshovelgold has been registered by Bibliotheca for the mod hammertime
+[19:42:33] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemshoveldiamond has been registered by Bibliotheca for the mod hammertime
+[19:42:33] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemaxewood has been registered by Bibliotheca for the mod hammertime
+[19:42:33] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemaxestone has been registered by Bibliotheca for the mod hammertime
+[19:42:33] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemaxeiron has been registered by Bibliotheca for the mod hammertime
+[19:42:33] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemaxegold has been registered by Bibliotheca for the mod hammertime
+[19:42:33] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemaxediamond has been registered by Bibliotheca for the mod hammertime
+[19:42:33] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemsicklewood has been registered by Bibliotheca for the mod hammertime
+[19:42:33] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemsicklestone has been registered by Bibliotheca for the mod hammertime
+[19:42:33] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemsickleiron has been registered by Bibliotheca for the mod hammertime
+[19:42:33] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemsicklegold has been registered by Bibliotheca for the mod hammertime
+[19:42:33] [Server thread/INFO] [Bibliotheca]: [ITEM]: item.hammertime.itemsicklediamond has been registered by Bibliotheca for the mod hammertime
+[19:42:33] [Server thread/INFO] [Totemic]: Moma had a cow, Moma had a chicken... Dad was proud, he didn't care how!
+[19:42:33] [Server thread/INFO] [Totemic]: Totemic is entering preinitialization stage
+[19:42:33] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
+[19:42:33] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
+[19:42:33] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
+[19:42:33] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
+[19:42:33] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
+[19:42:33] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
+[19:42:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `eplus.advanced.table`, expected `eplus`. This could be a intended override, but in most cases indicates a broken mod.
+[19:42:34] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `eplus.decorative.book`, expected `eplus`. This could be a intended override, but in most cases indicates a broken mod.
+[19:42:34] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
+[19:42:34] [Server thread/INFO] [FML]: Applying holder lookups
+[19:42:34] [Server thread/INFO] [FML]: Holder lookups applied
+[19:42:35] [Server thread/INFO] [FML]: Applying holder lookups
+[19:42:35] [Server thread/INFO] [FML]: Holder lookups applied
+[19:42:35] [Server thread/INFO] [FML]: Applying holder lookups
+[19:42:35] [Server thread/INFO] [FML]: Holder lookups applied
+[19:42:35] [Server thread/INFO] [FML]: Applying holder lookups
+[19:42:35] [Server thread/INFO] [FML]: Holder lookups applied
+[19:42:35] [Server thread/INFO] [FML]: Injecting itemstacks
+[19:42:35] [Server thread/INFO] [FML]: Itemstack injection complete
+[19:42:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[19:42:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[19:42:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[19:42:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[19:42:35] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[19:42:35] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:42:35] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[19:42:35] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:42:35] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:42:35] [Server thread/ERROR] [FML]: Parsing error loading recipe byg:rsbpp
 com.google.gson.JsonSyntaxException: Unknown item 'byg:parrotegg'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -203,7 +204,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:parrotegg'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[17:18:59] [Server thread/ERROR] [FML]: Parsing error loading recipe byg:rgapp
+[19:42:35] [Server thread/ERROR] [FML]: Parsing error loading recipe byg:rgapp
 com.google.gson.JsonSyntaxException: Unknown item 'byg:parrotegg'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -221,7 +222,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:parrotegg'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[17:18:59] [Server thread/ERROR] [FML]: Parsing error loading recipe byg:rbbpp
+[19:42:36] [Server thread/ERROR] [FML]: Parsing error loading recipe byg:rbbpp
 com.google.gson.JsonSyntaxException: Unknown item 'byg:parrotegg'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -239,7 +240,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:parrotegg'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[17:18:59] [Server thread/ERROR] [FML]: Parsing error loading recipe soggytransportation:soggy_mobile
+[19:42:36] [Server thread/ERROR] [FML]: Parsing error loading recipe soggytransportation:soggy_mobile
 com.google.gson.JsonSyntaxException: Unknown item 'soggytransportation:soggy_mobile'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:523) ~[CraftingHelper.class:?]
@@ -255,7 +256,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'soggytransportation:soggy_mob
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[17:18:59] [Server thread/ERROR] [FML]: Parsing error loading recipe soggytransportation:forklift
+[19:42:36] [Server thread/ERROR] [FML]: Parsing error loading recipe soggytransportation:forklift
 com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pattern: [I]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:521) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
@@ -270,7 +271,7 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[17:18:59] [Server thread/ERROR] [FML]: Parsing error loading recipe soggytransportation:electric_scooter
+[19:42:36] [Server thread/ERROR] [FML]: Parsing error loading recipe soggytransportation:electric_scooter
 com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pattern: [E]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:521) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
@@ -285,7 +286,7 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[17:18:59] [Server thread/ERROR] [FML]: Parsing error loading recipe soggytransportation:earth
+[19:42:36] [Server thread/ERROR] [FML]: Parsing error loading recipe soggytransportation:earth
 com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pattern: [L]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:521) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
@@ -300,7 +301,7 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[17:18:59] [Server thread/ERROR] [FML]: Parsing error loading recipe soggytransportation:ambulance
+[19:42:36] [Server thread/ERROR] [FML]: Parsing error loading recipe soggytransportation:ambulance
 com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pattern: [D, I]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:521) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
@@ -315,142 +316,102 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[17:18:59] [Server thread/INFO] [THAUMCRAFT]: Checking for mod & oredict compatibilities
-[17:18:59] [Server thread/INFO] [THAUMCRAFT]: Adding entities to MFR safari net blacklist.
-[17:18:59] [Server thread/INFO] [FML]: Applying holder lookups
-[17:18:59] [Server thread/INFO] [FML]: Holder lookups applied
-[17:19:00] [Server thread/INFO] [armorplus]: Finished Initialization
-[17:19:00] [Server thread/INFO] [Totemic]: Totemic is entering initialization stage
-[17:19:00] [Server thread/INFO] [FML]: Injecting itemstacks
-[17:19:00] [Server thread/INFO] [FML]: Itemstack injection complete
-[17:19:00] [Server thread/INFO] [armorplus]: Finished PostInitialization
-[17:19:00] [Server thread/INFO] [THAUMCRAFT]: Loaded 22 research entries from thaumcraft:research/alchemy
-[17:19:00] [Server thread/INFO] [THAUMCRAFT]: Loaded 5 research entries from thaumcraft:research/eldritch
-[17:19:00] [Server thread/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/basics
-[17:19:00] [Server thread/INFO] [THAUMCRAFT]: Loaded 23 research entries from thaumcraft:research/auromancy
-[17:19:00] [Server thread/INFO] [THAUMCRAFT]: Loaded 12 research entries from thaumcraft:research/scans
-[17:19:00] [Server thread/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/artifice
-[17:19:00] [Server thread/INFO] [THAUMCRAFT]: Loaded 17 research entries from thaumcraft:research/infusion
-[17:19:00] [Server thread/INFO] [THAUMCRAFT]: Loaded 29 research entries from thaumcraft:research/golemancy
-[17:19:00] [Server thread/INFO] [Totemic]: Totemic is entering postinitialization stage
-[17:19:00] [Server thread/INFO] [deconstruction]: done!
-[17:19:00] [Server thread/INFO] [deconstruction]: 14 invalid Recipes out of 1662
-[17:19:00] [Server thread/INFO] [deconstruction]: 1648 loaded out of 1648 valid recipes.
-[17:19:01] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 31 mods
-[17:19:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[17:19:01] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[17:19:01] [Server thread/INFO] [FML]: Applying holder lookups
-[17:19:01] [Server thread/INFO] [FML]: Holder lookups applied
-[17:19:01] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@673aae24)
-[17:19:02] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 512 advancements
-[17:19:02] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 0
-[17:19:02] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@673aae24)
-[17:19:02] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
-[17:19:02] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@673aae24)
-[17:19:02] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 1
-[17:19:02] [Server thread/INFO] [FML]: Loading dimension 2 (world) (net.minecraft.server.dedicated.DedicatedServer@673aae24)
-[17:19:02] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 2
-[17:19:02] [Server thread/INFO] [FML]: Loading dimension 3 (world) (net.minecraft.server.dedicated.DedicatedServer@673aae24)
-[17:19:02] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 3
-[17:19:02] [Server thread/INFO] [FML]: Loading dimension 4 (world) (net.minecraft.server.dedicated.DedicatedServer@673aae24)
-[17:19:02] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 4
-[17:19:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[17:19:03] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class dungeondq.Entity.DurahanZombie_E from class dungeondq.Entity.AAEntityBaseDurahanZombie
-[17:19:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 27%
-[17:19:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (2.862s)! For help, type "help" or "?"
-[17:19:04] [Thread-6/INFO] [THAUMCRAFT]: Starting aura thread for dim 0
-[17:19:04] [Thread-7/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
-[17:19:04] [Thread-8/INFO] [THAUMCRAFT]: Starting aura thread for dim 1
-[17:19:04] [Thread-9/INFO] [THAUMCRAFT]: Starting aura thread for dim 2
-[17:19:04] [Thread-10/INFO] [THAUMCRAFT]: Starting aura thread for dim 3
-[17:19:04] [Thread-11/INFO] [THAUMCRAFT]: Starting aura thread for dim 4
-[17:19:04] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
-[17:19:04] [Server thread/INFO] [FML]: Unloading dimension -1
-[17:19:04] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 1
-[17:19:04] [Server thread/INFO] [FML]: Unloading dimension 1
-[17:19:04] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 2
-[17:19:04] [Server thread/INFO] [FML]: Unloading dimension 2
-[17:19:04] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 3
-[17:19:04] [Server thread/INFO] [FML]: Unloading dimension 3
-[17:19:04] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 4
-[17:19:04] [Server thread/INFO] [FML]: Unloading dimension 4
-[17:19:06] [Thread-7/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
-[17:19:06] [Thread-8/INFO] [THAUMCRAFT]: Stopping aura thread for dim 1
-[17:19:06] [Thread-9/INFO] [THAUMCRAFT]: Stopping aura thread for dim 2
-[17:19:06] [Thread-10/INFO] [THAUMCRAFT]: Stopping aura thread for dim 3
-[17:19:06] [Thread-11/INFO] [THAUMCRAFT]: Stopping aura thread for dim 4
-[17:19:09] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[17:19:09] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 33 mods : minecraft@1.12.2,baubles@1.5.2,ironfurnaces@1.3.5,stupidthings@1.1.6,customskinloader@14.9,deconstruction@3.0.4,jei@4.16.1.1012,hammertime@2.2.0,totemic@1.12.2-0.11.7,cropdusting@0.7,musicplayer@2.1.1.296,glassential@1.1.0,mcp@9.42,journeymap@1.12.2-5.7.1,securitycraft@v1.9.12,dungeondq@10.00,travelersbackpack@1.0.34,elevatorid@1.3.11,FML@8.0.99.99,bookshelf@2.3.590,soggytransportation@1.12.2-1.0.0.0,uteamcore@2.2.5.305,tinymobfarm@1.0.5,letmesleep@1.2.2,thedragonlib@1.12.2-5.3.0,bibliotheca@1.1.1-1.12.2,bookworm@1.12.2-2.5.2.1,byg@1.7.1,thaumcraft@6.1.BETA26,forge@14.23.5.2860,armorplus@1.12.2-11.28.0.69,chococraft@3.1.415.0,eplus@5.0.176
-[17:19:09] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
-[17:19:10] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[17:19:10] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lxkherr[/100.71.123.106:62627] logged in with entity id 333 at (1479.0046028590316, 68.0, -1304.7650808678522)
-[17:19:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr joined the game
-[17:19:21] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[17:19:21] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 33 mods : minecraft@1.12.2,baubles@1.5.2,ironfurnaces@1.3.5,stupidthings@1.1.6,customskinloader@14.9,deconstruction@3.0.4,jei@4.16.1.1012,hammertime@2.2.0,totemic@1.12.2-0.11.7,cropdusting@0.7,musicplayer@2.1.1.296,glassential@1.1.0,mcp@9.42,journeymap@1.12.2-5.7.1,securitycraft@v1.9.12,dungeondq@10.00,travelersbackpack@1.0.34,elevatorid@1.3.11,FML@8.0.99.99,bookshelf@2.3.590,soggytransportation@1.12.2-1.0.0.0,uteamcore@2.2.5.305,tinymobfarm@1.0.5,letmesleep@1.2.2,thedragonlib@1.12.2-5.3.0,bibliotheca@1.1.1-1.12.2,bookworm@1.12.2-2.5.2.1,byg@1.7.1,thaumcraft@6.1.BETA26,forge@14.23.5.2860,armorplus@1.12.2-11.28.0.69,chococraft@3.1.415.0,eplus@5.0.176
-[17:19:21] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
-[17:19:22] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[17:19:22] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Its_edurneee[/100.94.146.84:57488] logged in with entity id 881 at (1467.5495825810979, 63.0, -1386.8805929862267)
-[17:19:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee joined the game
-[17:22:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Set the time to 1000]
-[17:27:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Lxkherr to Its_edurneee]
-[17:29:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Lxkherr to Its_edurneee]
-[17:29:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Lxkherr to Its_edurneee]
-[17:30:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Spectator Mode]
-[17:30:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
-[17:31:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Lxkherr to Its_edurneee]
-[17:31:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set the time to 1000]
-[17:35:36] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2194ms behind, skipping 43 tick(s)
-[17:36:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -8.60174627204492,-2.3924371976019643,-5.196929794812604
-[17:36:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -9.195947322635902,-2.525350376159338,-5.2985733269981665
-[17:36:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -9.795165576083491,-2.6582635547171947,-5.379412955549014
-[17:36:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -10.398384195032122,-2.79117673327535,-5.438792056461807
-[17:36:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -11.004248196578374,-2.92408991183369,-5.474783433836365
-[17:36:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -11.56911647964148,-3.0570030903921435,-5.530825433367909
-[17:36:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -12.098988062591161,-3.189916268950668,-5.6030327114056035
-[17:36:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -12.599258655844096,-3.3228294475092497,-5.687613196915436
-[17:36:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -13.074713030249995,-3.4557426260678596,-5.780853175134325
-[17:36:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -13.530753225045373,-3.588655804626484,-5.876275321957792
-[17:36:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -13.97890598580966,-3.721568983185122,-5.904968968025287
-[17:36:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -14.408794498645648,-3.8544821617437606,-5.867420170274727
-[17:36:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -14.802963583468,-3.987395340302413,-5.764773414378624
-[17:36:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -15.147413897015667,-4.120308518861066,-5.603594000263001
-[17:36:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -15.433631535169297,-4.253221697419718,-5.393070386440286
-[17:36:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -15.653769608420816,-4.386134875978371,-5.144771327609988
-[17:36:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -15.809020536606567,-4.5190480545370235,-4.866654739823844
-[17:36:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -15.899877727999638,-4.651961233095676,-4.567304434993503
-[17:36:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -15.930790875620232,-4.784874411654329,-4.251472718052582
-[17:36:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -15.905430766288873,-4.917787590212981,-3.924006198481493
-[17:36:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -15.825887717751812,-5.050700768771634,-3.5912384824555375
-[17:36:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -15.693197989264718,-5.1836139473302865,-3.2615139323181666
-[17:36:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -15.51026332819174,-5.316527125888939,-2.940510287715597
-[17:36:23] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2167ms behind, skipping 43 tick(s)
-[17:37:52] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3308ms behind, skipping 66 tick(s)
-[17:38:38] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2894ms behind, skipping 57 tick(s)
-[17:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Its_edurneee to Lxkherr]
-[17:40:09] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2562ms behind, skipping 51 tick(s)
-[17:40:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Its_edurneee moved too quickly! -7.8458107103760995,-2.0,6.062793725500569
-[17:40:54] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2333ms behind, skipping 46 tick(s)
-[17:41:39] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2345ms behind, skipping 46 tick(s)
-[17:42:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lxkherr moved wrongly!
-[17:42:25] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2034ms behind, skipping 40 tick(s)
-[17:42:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Its_edurneee moved wrongly!
-[17:43:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set the time to 1000]
-[17:43:55] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2346ms behind, skipping 46 tick(s)
-[17:45:25] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2105ms behind, skipping 42 tick(s)
-[17:45:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bike moved wrongly!
-[17:45:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bike moved wrongly!
-[17:45:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bike moved wrongly!
-[17:45:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bike moved wrongly!
-[17:45:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bike moved wrongly!
-[17:46:10] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2258ms behind, skipping 45 tick(s)
-[17:46:55] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2215ms behind, skipping 44 tick(s)
-[17:47:41] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2298ms behind, skipping 45 tick(s)
-[17:49:11] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2323ms behind, skipping 46 tick(s)
-[17:49:58] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2261ms behind, skipping 45 tick(s)
-[17:50:42] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2517ms behind, skipping 50 tick(s)
-[17:51:27] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2106ms behind, skipping 42 tick(s)
-[17:52:57] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2187ms behind, skipping 43 tick(s)
-[17:53:42] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2275ms behind, skipping 45 tick(s)
-[17:55:13] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2165ms behind, skipping 43 tick(s)
-[17:55:58] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2336ms behind, skipping 46 tick(s)
-[17:58:13] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2304ms behind, skipping 46 tick(s)
+[19:42:36] [Server thread/ERROR] [FML]: Parsing error loading recipe playerstorage:interface_0_2_6819
+com.google.gson.JsonSyntaxException: Unknown item 'playerstorage:interface'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
+	at net.minecraftforge.oredict.ShapedOreRecipe.factory(ShapedOreRecipe.java:254) ~[ShapedOreRecipe.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_432]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[19:42:36] [Server thread/INFO] [THAUMCRAFT]: Checking for mod & oredict compatibilities
+[19:42:36] [Server thread/INFO] [THAUMCRAFT]: Adding entities to MFR safari net blacklist.
+[19:42:36] [Server thread/INFO] [FML]: Applying holder lookups
+[19:42:36] [Server thread/INFO] [FML]: Holder lookups applied
+[19:42:36] [Server thread/INFO] [armorplus]: Finished Initialization
+[19:42:36] [Server thread/INFO] [Totemic]: Totemic is entering initialization stage
+[19:42:36] [Server thread/INFO] [FML]: Injecting itemstacks
+[19:42:36] [Server thread/INFO] [FML]: Itemstack injection complete
+[19:42:36] [Server thread/INFO] [armorplus]: Finished PostInitialization
+[19:42:37] [Server thread/INFO] [THAUMCRAFT]: Loaded 22 research entries from thaumcraft:research/alchemy
+[19:42:37] [Server thread/INFO] [THAUMCRAFT]: Loaded 5 research entries from thaumcraft:research/eldritch
+[19:42:37] [Server thread/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/basics
+[19:42:37] [Server thread/INFO] [THAUMCRAFT]: Loaded 23 research entries from thaumcraft:research/auromancy
+[19:42:37] [Server thread/INFO] [THAUMCRAFT]: Loaded 12 research entries from thaumcraft:research/scans
+[19:42:37] [Server thread/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/artifice
+[19:42:37] [Server thread/INFO] [THAUMCRAFT]: Loaded 17 research entries from thaumcraft:research/infusion
+[19:42:37] [Server thread/INFO] [THAUMCRAFT]: Loaded 29 research entries from thaumcraft:research/golemancy
+[19:42:37] [Server thread/INFO] [Totemic]: Totemic is entering postinitialization stage
+[19:42:37] [Server thread/INFO] [deconstruction]: done!
+[19:42:37] [Server thread/INFO] [deconstruction]: 14 invalid Recipes out of 1666
+[19:42:37] [Server thread/INFO] [deconstruction]: 1652 loaded out of 1652 valid recipes.
+[19:42:37] [Server thread/INFO] [Waila]: Starting Waila...
+[19:42:37] [Server thread/INFO] [Waila]: Gathering annotated plugins...
+[19:42:37] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
+[19:42:37] [Server thread/INFO] [Waila]: Registering plugins...
+[19:42:37] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[19:42:37] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
+[19:42:37] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[19:42:37] [Server thread/INFO] [Waila]: Registering plugin at mrriegel.limelib.plugin.WAILA
+[19:42:37] [Server thread/INFO] [Waila]: Registering plugin at net.geforcemods.securitycraft.compat.hudmods.WailaDataProvider
+[19:42:37] [Server thread/INFO] [Waila]: Starting Waila took 39.05 ms
+[19:42:37] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 34 mods
+[19:42:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[19:42:37] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[19:42:38] [Server thread/INFO] [FML]: Applying holder lookups
+[19:42:38] [Server thread/INFO] [FML]: Holder lookups applied
+[19:42:38] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@6f446822)
+[19:42:38] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 512 advancements
+[19:42:38] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 0
+[19:42:38] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@6f446822)
+[19:42:38] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[19:42:38] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@6f446822)
+[19:42:38] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 1
+[19:42:38] [Server thread/INFO] [FML]: Loading dimension 2 (world) (net.minecraft.server.dedicated.DedicatedServer@6f446822)
+[19:42:38] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 2
+[19:42:38] [Server thread/INFO] [FML]: Loading dimension 3 (world) (net.minecraft.server.dedicated.DedicatedServer@6f446822)
+[19:42:38] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 3
+[19:42:38] [Server thread/INFO] [FML]: Loading dimension 4 (world) (net.minecraft.server.dedicated.DedicatedServer@6f446822)
+[19:42:38] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 4
+[19:42:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[19:42:39] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class dungeondq.Entity.DurahanZombie_E from class dungeondq.Entity.AAEntityBaseDurahanZombie
+[19:42:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 45%
+[19:42:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (2.771s)! For help, type "help" or "?"
+[19:42:40] [Thread-6/INFO] [THAUMCRAFT]: Starting aura thread for dim 0
+[19:42:40] [Thread-7/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[19:42:40] [Thread-8/INFO] [THAUMCRAFT]: Starting aura thread for dim 1
+[19:42:40] [Thread-9/INFO] [THAUMCRAFT]: Starting aura thread for dim 2
+[19:42:40] [Thread-10/INFO] [THAUMCRAFT]: Starting aura thread for dim 3
+[19:42:40] [Thread-11/INFO] [THAUMCRAFT]: Starting aura thread for dim 4
+[19:42:40] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[19:42:40] [Server thread/INFO] [FML]: Unloading dimension -1
+[19:42:40] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 1
+[19:42:40] [Server thread/INFO] [FML]: Unloading dimension 1
+[19:42:40] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 2
+[19:42:40] [Server thread/INFO] [FML]: Unloading dimension 2
+[19:42:40] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 3
+[19:42:40] [Server thread/INFO] [FML]: Unloading dimension 3
+[19:42:40] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 4
+[19:42:40] [Server thread/INFO] [FML]: Unloading dimension 4
+[19:42:42] [Thread-7/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[19:42:42] [Thread-8/INFO] [THAUMCRAFT]: Stopping aura thread for dim 1
+[19:42:42] [Thread-9/INFO] [THAUMCRAFT]: Stopping aura thread for dim 2
+[19:42:42] [Thread-10/INFO] [THAUMCRAFT]: Stopping aura thread for dim 3
+[19:42:42] [Thread-11/INFO] [THAUMCRAFT]: Stopping aura thread for dim 4
+[19:42:55] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[19:42:55] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 37 mods : minecraft@1.12.2,baubles@1.5.2,ironfurnaces@1.3.5,xray@2.0.0,stupidthings@1.1.6,customskinloader@14.9,deconstruction@3.0.4,jei@4.16.1.1012,hammertime@2.2.0,totemic@1.12.2-0.11.7,cropdusting@0.7,musicplayer@2.1.1.296,glassential@1.1.0,mcp@9.42,journeymap@1.12.2-5.7.1,securitycraft@v1.9.12,dungeondq@10.00,travelersbackpack@1.0.34,elevatorid@1.3.11,playerstorage@1.3.12,FML@8.0.99.99,bookshelf@2.3.590,soggytransportation@1.12.2-1.0.0.0,uteamcore@2.2.5.305,tinymobfarm@1.0.5,limelib@1.7.12,waila@1.8.26,letmesleep@1.2.2,thedragonlib@1.12.2-5.3.0,bibliotheca@1.1.1-1.12.2,bookworm@1.12.2-2.5.2.1,byg@1.7.1,thaumcraft@6.1.BETA26,forge@14.23.5.2860,armorplus@1.12.2-11.28.0.69,chococraft@3.1.415.0,eplus@5.0.176
+[19:42:55] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[19:42:55] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:42:55] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lxkherr[/100.71.123.106:64704] logged in with entity id 328 at (1478.6275700634512, 64.0, -1125.010760428248)
+[19:42:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr joined the game
+[19:42:56] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Lxkherr'/328, l='world', x=1478.63, y=64.00, z=-1125.01] connected. Sending ping
+[19:48:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Changing to clear weather]
+[19:48:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set the time to 1000]
