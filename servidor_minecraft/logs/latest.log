@@ -415,3 +415,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'playerstorage:interface'
 [19:42:56] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Lxkherr'/328, l='world', x=1478.63, y=64.00, z=-1125.01] connected. Sending ping
 [19:48:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Changing to clear weather]
 [19:48:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set the time to 1000]
+[19:54:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr has made the advancement [A Seedy Place]
+[19:57:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Given [Wheat] * 10 to Lxkherr]
+[19:58:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set the time to 1000]
+[20:00:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Changing to clear weather]
