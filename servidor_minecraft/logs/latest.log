@@ -502,3 +502,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'playerstorage:interface'
 [22:07:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lxkherr> pongomusica oalgo
 [22:09:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Changing to clear weather]
 [22:09:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set the time to 1000]
+[22:17:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Changing to clear weather]
+[22:19:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set the time to 1000]
