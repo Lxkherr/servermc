@@ -439,3 +439,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'playerstorage:interface'
 [20:30:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
 [20:30:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Set own game mode to Survival Mode]
 [20:31:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Changing to clear weather]
+[20:34:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set the time to 1000]
+[20:36:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Lxkherr to Its_edurneee]
+[20:39:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Lxkherr to Its_edurneee]
+[20:40:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Changing to clear weather]
