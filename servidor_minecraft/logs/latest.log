@@ -11,3 +11,156 @@
 [00:01:53] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3191ms behind, skipping 63 tick(s)
 [00:01:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Its_edurneee moved too quickly! -8.58338705877486,5.670908383932293,1.5241623086865275
 [00:04:09] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3098ms behind, skipping 61 tick(s)
+[00:04:57] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4765ms behind, skipping 95 tick(s)
+[00:05:03] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lxkherr lost connection: Disconnected
+[00:05:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr left the game
+[00:05:06] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[00:05:06] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 33 mods : minecraft@1.12.2,baubles@1.5.2,ironfurnaces@1.3.5,stupidthings@1.1.6,customskinloader@14.9,deconstruction@3.0.4,jei@4.16.1.1012,hammertime@2.2.0,totemic@1.12.2-0.11.7,cropdusting@0.7,musicplayer@2.1.1.296,glassential@1.1.0,mcp@9.42,journeymap@1.12.2-5.7.1,securitycraft@v1.9.12,dungeondq@10.00,travelersbackpack@1.0.34,elevatorid@1.3.11,FML@8.0.99.99,bookshelf@2.3.590,soggytransportation@1.12.2-1.0.0.0,uteamcore@2.2.5.305,tinymobfarm@1.0.5,letmesleep@1.2.2,thedragonlib@1.12.2-5.3.0,bibliotheca@1.1.1-1.12.2,bookworm@1.12.2-2.5.2.1,byg@1.7.1,thaumcraft@6.1.BETA26,forge@14.23.5.2860,armorplus@1.12.2-11.28.0.69,chococraft@3.1.415.0,eplus@5.0.176
+[00:05:06] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[00:05:07] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:05:07] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lxkherr[/100.71.123.106:60102] logged in with entity id 52230 at (1478.373153553557, 65.0, -1122.5981611065115)
+[00:05:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr joined the game
+[00:06:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Spectator Mode]
+[00:06:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
+[00:07:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Spectator Mode]
+[00:07:13] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3331ms behind, skipping 66 tick(s)
+[00:07:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lxkherr moved too quickly! -1.077933314670645,-8.625000340792745,4.97794917921442
+[00:07:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Its_edurneee moved too quickly! 9.135248461484025,4.648399984347826,0.5236904074342874
+[00:07:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
+[00:08:43] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2450ms behind, skipping 49 tick(s)
+[00:08:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set the time to 1000]
+[00:09:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Spectator Mode]
+[00:09:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
+[00:10:14] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2793ms behind, skipping 55 tick(s)
+[00:11:45] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2960ms behind, skipping 59 tick(s)
+[00:11:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Its_edurneee moved too quickly! 5.721469786848729,-5.0,-6.610037494928974
+[00:13:46] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@22f734c6)
+[00:13:46] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[00:13:49] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3172ms behind, skipping 63 tick(s)
+[00:13:49] [Thread-15/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[00:13:49] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[00:13:50] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:13:51] [Thread-15/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[00:13:51] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@22f734c6)
+[00:13:51] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[00:13:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr has made the advancement [We Need to Go Deeper]
+[00:13:52] [Thread-16/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[00:13:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lxkherr moved too quickly! -1303.9268892922241,4.5,981.6699059741575
+[00:13:56] [Server thread/WARN] [FML]: DungeonDQ loaded a new chunk [0, -21] in dimension -1 (the_nether) while populating chunk [4, -19], causing cascading worldgen lag.
+[00:13:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:13:56] [Server thread/WARN] [FML]: DungeonDQ loaded a new chunk [1, -20] in dimension -1 (the_nether) while populating chunk [4, -19], causing cascading worldgen lag.
+[00:13:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:13:56] [Server thread/WARN] [FML]: DungeonDQ loaded a new chunk [1, -21] in dimension -1 (the_nether) while populating chunk [4, -19], causing cascading worldgen lag.
+[00:13:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:13:56] [Server thread/WARN] [FML]: DungeonDQ loaded a new chunk [2, -20] in dimension -1 (the_nether) while populating chunk [4, -19], causing cascading worldgen lag.
+[00:13:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:13:56] [Server thread/WARN] [FML]: DungeonDQ loaded a new chunk [2, -21] in dimension -1 (the_nether) while populating chunk [4, -19], causing cascading worldgen lag.
+[00:13:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:13:56] [Server thread/WARN] [FML]: DungeonDQ loaded a new chunk [4, -20] in dimension -1 (the_nether) while populating chunk [4, -19], causing cascading worldgen lag.
+[00:13:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:13:56] [Server thread/WARN] [FML]: DungeonDQ loaded a new chunk [3, -20] in dimension -1 (the_nether) while populating chunk [4, -19], causing cascading worldgen lag.
+[00:13:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:13:56] [Server thread/WARN] [FML]: DungeonDQ loaded a new chunk [3, -21] in dimension -1 (the_nether) while populating chunk [4, -19], causing cascading worldgen lag.
+[00:13:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:13:56] [Server thread/WARN] [FML]: DungeonDQ loaded a new chunk [4, -21] in dimension -1 (the_nether) while populating chunk [4, -19], causing cascading worldgen lag.
+[00:13:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:14:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[00:14:35] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:14:36] [Thread-16/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[00:14:49] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@22f734c6)
+[00:14:49] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[00:14:49] [Thread-17/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[00:14:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lxkherr moved too quickly! -1303.8360612756978,4.5,980.4585708129491
+[00:15:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Creative Mode]
+[00:15:49] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[00:15:50] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:15:50] [Thread-17/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[00:16:00] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@22f734c6)
+[00:16:00] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[00:16:01] [Thread-18/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[00:16:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lxkherr moved too quickly! -1303.2479246690552,4.5,980.489959066005
+[00:17:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Set the time to 1000]
+[00:17:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
+[00:17:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Creative Mode]
+[00:17:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
+[00:18:10] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[00:18:10] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:18:12] [Thread-18/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[00:18:24] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@22f734c6)
+[00:18:24] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[00:18:24] [Thread-19/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[00:18:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! 2.031203385148501,3.831950730646355,9.452032593813612
+[00:19:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! 7.002626502780515,0.7855205651362454,-7.184480683849031
+[00:20:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr has made the advancement [A Terrible Fortress]
+[00:20:54] [Server thread/WARN] [FML]: DungeonDQ loaded a new chunk [32, -6] in dimension -1 (the_nether) while populating chunk [35, -2], causing cascading worldgen lag.
+[00:20:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:20:54] [Server thread/WARN] [FML]: DungeonDQ loaded a new chunk [33, -4] in dimension -1 (the_nether) while populating chunk [35, -2], causing cascading worldgen lag.
+[00:20:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:20:54] [Server thread/WARN] [FML]: DungeonDQ loaded a new chunk [33, -5] in dimension -1 (the_nether) while populating chunk [35, -2], causing cascading worldgen lag.
+[00:20:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:20:54] [Server thread/WARN] [FML]: DungeonDQ loaded a new chunk [32, -4] in dimension -1 (the_nether) while populating chunk [35, -2], causing cascading worldgen lag.
+[00:20:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:20:54] [Server thread/WARN] [FML]: DungeonDQ loaded a new chunk [32, -5] in dimension -1 (the_nether) while populating chunk [35, -2], causing cascading worldgen lag.
+[00:20:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:20:54] [Server thread/WARN] [FML]: DungeonDQ loaded a new chunk [33, -6] in dimension -1 (the_nether) while populating chunk [35, -2], causing cascading worldgen lag.
+[00:20:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:20:54] [Server thread/WARN] [FML]: DungeonDQ loaded a new chunk [33, -7] in dimension -1 (the_nether) while populating chunk [35, -2], causing cascading worldgen lag.
+[00:20:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:20:54] [Server thread/WARN] [FML]: DungeonDQ loaded a new chunk [32, -7] in dimension -1 (the_nether) while populating chunk [33, -7], causing cascading worldgen lag.
+[00:20:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:20:54] [Server thread/WARN] [FML]: DungeonDQ loaded a new chunk [34, -5] in dimension -1 (the_nether) while populating chunk [35, -2], causing cascading worldgen lag.
+[00:20:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:20:54] [Server thread/WARN] [FML]: DungeonDQ loaded a new chunk [34, -6] in dimension -1 (the_nether) while populating chunk [35, -2], causing cascading worldgen lag.
+[00:20:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:20:54] [Server thread/WARN] [FML]: DungeonDQ loaded a new chunk [34, -7] in dimension -1 (the_nether) while populating chunk [35, -2], causing cascading worldgen lag.
+[00:20:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:20:54] [Server thread/WARN] [FML]: DungeonDQ loaded a new chunk [33, -8] in dimension -1 (the_nether) while populating chunk [34, -7], causing cascading worldgen lag.
+[00:20:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:20:54] [Server thread/WARN] [FML]: DungeonDQ loaded a new chunk [35, -6] in dimension -1 (the_nether) while populating chunk [35, -2], causing cascading worldgen lag.
+[00:20:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:20:54] [Server thread/WARN] [FML]: DungeonDQ loaded a new chunk [35, -4] in dimension -1 (the_nether) while populating chunk [35, -2], causing cascading worldgen lag.
+[00:20:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:20:54] [Server thread/WARN] [FML]: DungeonDQ loaded a new chunk [35, -5] in dimension -1 (the_nether) while populating chunk [35, -2], causing cascading worldgen lag.
+[00:20:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:20:54] [Server thread/WARN] [FML]: DungeonDQ loaded a new chunk [35, -7] in dimension -1 (the_nether) while populating chunk [35, -2], causing cascading worldgen lag.
+[00:20:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:20:54] [Server thread/WARN] [FML]: DungeonDQ loaded a new chunk [36, -6] in dimension -1 (the_nether) while populating chunk [35, -2], causing cascading worldgen lag.
+[00:20:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:20:54] [Server thread/WARN] [FML]: DungeonDQ loaded a new chunk [36, -5] in dimension -1 (the_nether) while populating chunk [35, -2], causing cascading worldgen lag.
+[00:20:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:20:54] [Server thread/WARN] [FML]: DungeonDQ loaded a new chunk [36, -4] in dimension -1 (the_nether) while populating chunk [35, -2], causing cascading worldgen lag.
+[00:20:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:20:54] [Server thread/WARN] [FML]: DungeonDQ loaded a new chunk [36, -3] in dimension -1 (the_nether) while populating chunk [35, -2], causing cascading worldgen lag.
+[00:20:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:20:54] [Server thread/WARN] [FML]: DungeonDQ loaded a new chunk [36, -7] in dimension -1 (the_nether) while populating chunk [35, -2], causing cascading worldgen lag.
+[00:20:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:21:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr has made the advancement [Into Fire]
+[00:22:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -9.336884480560116,1.9424848453223262,4.414944710555346
+[00:22:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -9.829676480123965,2.2073058815640962,4.787119939756764
+[00:22:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -10.313138857293609,2.4848080097154934,5.171664200443644
+[00:22:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -10.787212440197322,2.7744890587739235,5.568114118934261
+[00:22:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -11.252568462077306,3.075866743699109,5.975456109409322
+[00:22:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -11.710150162812226,3.3884778779293754,6.392511649960056
+[00:22:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -12.16079872375019,3.7118776170822088,6.8182297347179315
+[00:22:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -12.605264310439054,4.045638732604331,7.251673076622353
+[00:22:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -13.044215920533645,4.389350914185201,7.69200580304863
+[00:22:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -13.47825016615974,4.742620099794905,8.13848248276858
+[00:22:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -13.907899106026434,5.10506783225253,8.590438340193714
+[00:22:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -14.333637230104216,5.4763306412744726,9.04728052843717
+[00:22:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo (vehicle of Lxkherr) moved too quickly! -14.755887688560904,5.856059449993552,9.508480346629966
+[00:22:18] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2005ms behind, skipping 40 tick(s)
+[00:22:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee has made the advancement [We Need to Go Deeper]
+[00:23:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Teleported Its_edurneee to Lxkherr]
+[00:23:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr fell from a high place
+[00:23:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee has made the advancement [A Terrible Fortress]
+[00:23:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee fell from a high place
+[00:23:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[00:23:35] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:23:37] [Thread-19/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[00:23:39] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@22f734c6)
+[00:23:39] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[00:23:39] [Thread-20/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[00:24:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Spectator Mode]
+[00:24:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
+[00:24:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Its_edurneee moved too quickly! -1303.3919971814885,4.5,981.6127877248125
+[00:24:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Teleported Its_edurneee to Lxkherr]
