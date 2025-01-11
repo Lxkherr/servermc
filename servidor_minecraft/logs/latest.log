@@ -532,3 +532,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'playerstorage:interface'
 [23:32:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Spectator Mode]
 [23:32:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
 [23:32:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Its_edurneee to Lxkherr]
+[23:37:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Changing to clear weather]
+[23:41:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Its_edurneee> t/time set day
+[23:41:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Set the time to 1000]
+[23:44:44] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [87, -104] in dimension 0 (overworld) while populating chunk [87, -103], causing cascading worldgen lag.
+[23:44:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
