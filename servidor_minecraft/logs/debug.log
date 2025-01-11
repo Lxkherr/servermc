@@ -18233,3 +18233,186 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [00:24:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [00:24:44] [Server thread/DEBUG] [FML]: The world a0a9a3c (world) may have leaked: seen 40 times.
 
+[00:24:54] [Server thread/DEBUG] [FML]: The world 4ff4b285 (world) may have leaked: seen 55 times.
+
+[00:25:14] [Server thread/DEBUG] [FML]: The world 1b0cd236 (world) may have leaked: seen 10 times.
+
+[00:25:14] [Server thread/DEBUG] [FML]: The world 7b49d427 (world) may have leaked: seen 65 times.
+
+[00:25:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:25:34] [Server thread/DEBUG] [FML]: The world a0a9a3c (world) may have leaked: seen 45 times.
+
+[00:25:44] [Server thread/DEBUG] [FML]: The world 4ff4b285 (world) may have leaked: seen 60 times.
+
+[00:25:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:26:02] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2023ms behind, skipping 40 tick(s)
+[00:26:04] [Server thread/DEBUG] [FML]: The world 1b0cd236 (world) may have leaked: seen 15 times.
+
+[00:26:04] [Server thread/DEBUG] [FML]: The world 7b49d427 (world) may have leaked: seen 70 times.
+
+[00:26:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lxkherr moved too quickly! 1303.7340507790148,-3.5,-980.2839934056758
+[00:26:06] [Server thread/DEBUG] [FML]: Queueing dimension -1 to unload
+[00:26:06] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[00:26:07] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:26:08] [Thread-20/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[00:26:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Creative Mode]
+[00:26:24] [Server thread/DEBUG] [FML]: The world a0a9a3c (world) may have leaked: seen 50 times.
+
+[00:26:34] [Server thread/DEBUG] [FML]: The world 4ff4b285 (world) may have leaked: seen 65 times.
+
+[00:26:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:26:54] [Server thread/DEBUG] [FML]: The world 1b0cd236 (world) may have leaked: seen 20 times.
+
+[00:26:54] [Server thread/DEBUG] [FML]: The world 39ed1f35 (world) may have leaked: first encounter (5 occurrences).
+
+[00:26:54] [Server thread/DEBUG] [FML]: The world 7b49d427 (world) may have leaked: seen 75 times.
+
+[00:26:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set own game mode to Survival Mode]
+[00:27:14] [Server thread/DEBUG] [FML]: The world a0a9a3c (world) may have leaked: seen 55 times.
+
+[00:27:24] [Server thread/DEBUG] [FML]: The world 4ff4b285 (world) may have leaked: seen 70 times.
+
+[00:27:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:27:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Set the time to 1000]
+[00:27:44] [Server thread/DEBUG] [FML]: The world 1b0cd236 (world) may have leaked: seen 25 times.
+
+[00:27:44] [Server thread/DEBUG] [FML]: The world 39ed1f35 (world) may have leaked: seen 10 times.
+
+[00:27:44] [Server thread/DEBUG] [FML]: The world 7b49d427 (world) may have leaked: seen 80 times.
+
+[00:28:04] [Server thread/DEBUG] [FML]: The world a0a9a3c (world) may have leaked: seen 60 times.
+
+[00:28:14] [Server thread/DEBUG] [FML]: The world 4ff4b285 (world) may have leaked: seen 75 times.
+
+[00:28:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:28:34] [Server thread/DEBUG] [FML]: The world 1b0cd236 (world) may have leaked: seen 30 times.
+
+[00:28:34] [Server thread/DEBUG] [FML]: The world 39ed1f35 (world) may have leaked: seen 15 times.
+
+[00:28:34] [Server thread/DEBUG] [FML]: The world 7b49d427 (world) may have leaked: seen 85 times.
+
+[00:28:54] [Server thread/DEBUG] [FML]: The world a0a9a3c (world) may have leaked: seen 65 times.
+
+[00:28:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:29:04] [Server thread/DEBUG] [FML]: The world 4ff4b285 (world) may have leaked: seen 80 times.
+
+[00:29:24] [Server thread/DEBUG] [FML]: The world 1b0cd236 (world) may have leaked: seen 35 times.
+
+[00:29:24] [Server thread/DEBUG] [FML]: The world 39ed1f35 (world) may have leaked: seen 20 times.
+
+[00:29:24] [Server thread/DEBUG] [FML]: The world 7b49d427 (world) may have leaked: seen 90 times.
+
+[00:29:44] [Server thread/DEBUG] [FML]: The world a0a9a3c (world) may have leaked: seen 70 times.
+
+[00:29:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:29:54] [Server thread/DEBUG] [FML]: The world 4ff4b285 (world) may have leaked: seen 85 times.
+
+[00:30:14] [Server thread/DEBUG] [FML]: The world 1b0cd236 (world) may have leaked: seen 40 times.
+
+[00:30:14] [Server thread/DEBUG] [FML]: The world 39ed1f35 (world) may have leaked: seen 25 times.
+
+[00:30:14] [Server thread/DEBUG] [FML]: The world 7b49d427 (world) may have leaked: seen 95 times.
+
+[00:30:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lxkherr was kicked for floating too long!
+[00:30:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lxkherr lost connection: Flying is not enabled on this server
+[00:30:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr left the game
+[00:30:23] [Server thread/TRACE] [FML]: Handshake channel activating
+[00:30:23] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[00:30:23] [Server thread/DEBUG] [FML]:   Next: HELLO
+[00:30:23] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[00:30:23] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[00:30:23] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:33 mods->FMLHandshakeServerState$2:HELLO
+[00:30:23] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 33 mods : minecraft@1.12.2,baubles@1.5.2,ironfurnaces@1.3.5,stupidthings@1.1.6,customskinloader@14.9,deconstruction@3.0.4,jei@4.16.1.1012,hammertime@2.2.0,totemic@1.12.2-0.11.7,cropdusting@0.7,musicplayer@2.1.1.296,glassential@1.1.0,mcp@9.42,journeymap@1.12.2-5.7.1,securitycraft@v1.9.12,dungeondq@10.00,travelersbackpack@1.0.34,elevatorid@1.3.11,FML@8.0.99.99,bookshelf@2.3.590,soggytransportation@1.12.2-1.0.0.0,uteamcore@2.2.5.305,tinymobfarm@1.0.5,letmesleep@1.2.2,thedragonlib@1.12.2-5.3.0,bibliotheca@1.1.1-1.12.2,bookworm@1.12.2-2.5.2.1,byg@1.7.1,thaumcraft@6.1.BETA26,forge@14.23.5.2860,armorplus@1.12.2-11.28.0.69,chococraft@3.1.415.0,eplus@5.0.176
+[00:30:23] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[00:30:23] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[00:30:23] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[00:30:23] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[00:30:24] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[00:30:24] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[00:30:24] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[00:30:24] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:30:24] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lxkherr[/100.71.123.106:60208] logged in with entity id 86281 at (1478.5, 66.0, -1116.5)
+[00:30:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lxkherr joined the game
+[00:30:24] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[00:30:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:30:34] [Server thread/DEBUG] [FML]: The world a0a9a3c (world) may have leaked: seen 75 times.
+
+[00:30:44] [Server thread/DEBUG] [FML]: The world 4ff4b285 (world) may have leaked: seen 90 times.
+
+[00:31:04] [Server thread/DEBUG] [FML]: The world 1b0cd236 (world) may have leaked: seen 45 times.
+
+[00:31:04] [Server thread/DEBUG] [FML]: The world 39ed1f35 (world) may have leaked: seen 30 times.
+
+[00:31:04] [Server thread/DEBUG] [FML]: The world 7b49d427 (world) may have leaked: seen 100 times.
+
+[00:31:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:31:24] [Server thread/DEBUG] [FML]: The world a0a9a3c (world) may have leaked: seen 80 times.
+
+[00:31:34] [Server thread/DEBUG] [FML]: The world 4ff4b285 (world) may have leaked: seen 95 times.
+
+[00:31:54] [Server thread/DEBUG] [FML]: The world 1b0cd236 (world) may have leaked: seen 50 times.
+
+[00:31:54] [Server thread/DEBUG] [FML]: The world 39ed1f35 (world) may have leaked: seen 35 times.
+
+[00:31:54] [Server thread/DEBUG] [FML]: The world 7b49d427 (world) may have leaked: seen 105 times.
+
+[00:31:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:32:14] [Server thread/DEBUG] [FML]: The world a0a9a3c (world) may have leaked: seen 85 times.
+
+[00:32:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Its_edurneee lost connection: Disconnected
+[00:32:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee left the game
+[00:32:24] [Server thread/DEBUG] [FML]: The world 4ff4b285 (world) may have leaked: seen 100 times.
+
+[00:32:39] [Server thread/TRACE] [FML]: Handshake channel activating
+[00:32:39] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[00:32:39] [Server thread/DEBUG] [FML]:   Next: HELLO
+[00:32:39] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[00:32:39] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[00:32:39] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:33 mods->FMLHandshakeServerState$2:HELLO
+[00:32:39] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 33 mods : minecraft@1.12.2,baubles@1.5.2,ironfurnaces@1.3.5,stupidthings@1.1.6,customskinloader@14.9,deconstruction@3.0.4,jei@4.16.1.1012,hammertime@2.2.0,totemic@1.12.2-0.11.7,cropdusting@0.7,musicplayer@2.1.1.296,glassential@1.1.0,mcp@9.42,journeymap@1.12.2-5.7.1,securitycraft@v1.9.12,dungeondq@10.00,travelersbackpack@1.0.34,elevatorid@1.3.11,FML@8.0.99.99,bookshelf@2.3.590,soggytransportation@1.12.2-1.0.0.0,uteamcore@2.2.5.305,tinymobfarm@1.0.5,letmesleep@1.2.2,thedragonlib@1.12.2-5.3.0,bibliotheca@1.1.1-1.12.2,bookworm@1.12.2-2.5.2.1,byg@1.7.1,thaumcraft@6.1.BETA26,forge@14.23.5.2860,armorplus@1.12.2-11.28.0.69,chococraft@3.1.415.0,eplus@5.0.176
+[00:32:39] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[00:32:39] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[00:32:39] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[00:32:39] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[00:32:40] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[00:32:40] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[00:32:40] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[00:32:41] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:32:41] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Its_edurneee[/100.94.146.84:61902] logged in with entity id 89040 at (1464.8847249552598, 64.0, -1396.5685633279338)
+[00:32:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee joined the game
+[00:32:41] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[00:32:44] [Server thread/DEBUG] [FML]: The world 1b0cd236 (world) may have leaked: seen 55 times.
+
+[00:32:44] [Server thread/DEBUG] [FML]: The world 39ed1f35 (world) may have leaked: seen 40 times.
+
+[00:32:44] [Server thread/DEBUG] [FML]: The world 7b49d427 (world) may have leaked: seen 110 times.
+
+[00:32:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:32:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Lxkherr to Its_edurneee]
+[00:33:04] [Server thread/DEBUG] [FML]: The world a0a9a3c (world) may have leaked: seen 90 times.
+
+[00:33:14] [Server thread/DEBUG] [FML]: The world 4ff4b285 (world) may have leaked: seen 105 times.
+
+[00:33:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:33:34] [Server thread/DEBUG] [FML]: The world 1b0cd236 (world) may have leaked: seen 60 times.
+
+[00:33:34] [Server thread/DEBUG] [FML]: The world 39ed1f35 (world) may have leaked: seen 45 times.
+
+[00:33:34] [Server thread/DEBUG] [FML]: The world 7b49d427 (world) may have leaked: seen 115 times.
+
+[00:33:54] [Server thread/DEBUG] [FML]: The world a0a9a3c (world) may have leaked: seen 95 times.
+
+[00:34:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lxkherr: Teleported Its_edurneee to Lxkherr]
+[00:34:04] [Server thread/DEBUG] [FML]: The world 4ff4b285 (world) may have leaked: seen 110 times.
+
+[00:34:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:34:24] [Server thread/DEBUG] [FML]: The world 1b0cd236 (world) may have leaked: seen 65 times.
+
+[00:34:24] [Server thread/DEBUG] [FML]: The world 39ed1f35 (world) may have leaked: seen 50 times.
+
+[00:34:24] [Server thread/DEBUG] [FML]: The world 7b49d427 (world) may have leaked: seen 120 times.
+
+[00:34:44] [Server thread/DEBUG] [FML]: The world a0a9a3c (world) may have leaked: seen 100 times.
+
+[00:34:54] [Server thread/DEBUG] [FML]: The world 4ff4b285 (world) may have leaked: seen 115 times.
+
