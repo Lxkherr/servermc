@@ -19874,3 +19874,146 @@ com.google.gson.JsonSyntaxException: Unknown item 'playerstorage:interface'
 
 [21:22:58] [Server thread/DEBUG] [FML]: The world 1807c8d8 (world) may have leaked: seen 420 times.
 
+[21:23:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:23:48] [Server thread/DEBUG] [FML]: The world 735ed13e (world) may have leaked: seen 425 times.
+
+[21:23:48] [Server thread/DEBUG] [FML]: The world 45718422 (world) may have leaked: seen 425 times.
+
+[21:23:48] [Server thread/DEBUG] [FML]: The world 2b2e005d (world) may have leaked: seen 425 times.
+
+[21:23:48] [Server thread/DEBUG] [FML]: The world 547a281e (world) may have leaked: seen 425 times.
+
+[21:23:48] [Server thread/DEBUG] [FML]: The world 1807c8d8 (world) may have leaked: seen 425 times.
+
+[21:23:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Set own game mode to Spectator Mode]
+[21:24:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Changing to clear weather]
+[21:24:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:24:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Set the time to 1000]
+[21:24:38] [Server thread/DEBUG] [FML]: The world 735ed13e (world) may have leaked: seen 430 times.
+
+[21:24:38] [Server thread/DEBUG] [FML]: The world 45718422 (world) may have leaked: seen 430 times.
+
+[21:24:38] [Server thread/DEBUG] [FML]: The world 2b2e005d (world) may have leaked: seen 430 times.
+
+[21:24:38] [Server thread/DEBUG] [FML]: The world 547a281e (world) may have leaked: seen 430 times.
+
+[21:24:38] [Server thread/DEBUG] [FML]: The world 1807c8d8 (world) may have leaked: seen 430 times.
+
+[21:24:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Its_edurneee moved too quickly! 10.045713354639474,0.0,0.18214524521840758
+[21:24:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:25:28] [Server thread/DEBUG] [FML]: The world 735ed13e (world) may have leaked: seen 435 times.
+
+[21:25:28] [Server thread/DEBUG] [FML]: The world 45718422 (world) may have leaked: seen 435 times.
+
+[21:25:28] [Server thread/DEBUG] [FML]: The world 2b2e005d (world) may have leaked: seen 435 times.
+
+[21:25:28] [Server thread/DEBUG] [FML]: The world 547a281e (world) may have leaked: seen 435 times.
+
+[21:25:28] [Server thread/DEBUG] [FML]: The world 1807c8d8 (world) may have leaked: seen 435 times.
+
+[21:25:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Its_edurneee moved too quickly! 8.45798218250411,-5.695864668565832,-0.6783599359878281
+[21:25:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:26:18] [Server thread/DEBUG] [FML]: The world 735ed13e (world) may have leaked: seen 440 times.
+
+[21:26:18] [Server thread/DEBUG] [FML]: The world 45718422 (world) may have leaked: seen 440 times.
+
+[21:26:18] [Server thread/DEBUG] [FML]: The world 2b2e005d (world) may have leaked: seen 440 times.
+
+[21:26:18] [Server thread/DEBUG] [FML]: The world 547a281e (world) may have leaked: seen 440 times.
+
+[21:26:18] [Server thread/DEBUG] [FML]: The world 1807c8d8 (world) may have leaked: seen 440 times.
+
+[21:26:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:27:08] [Server thread/DEBUG] [FML]: The world 735ed13e (world) may have leaked: seen 445 times.
+
+[21:27:08] [Server thread/DEBUG] [FML]: The world 45718422 (world) may have leaked: seen 445 times.
+
+[21:27:08] [Server thread/DEBUG] [FML]: The world 2b2e005d (world) may have leaked: seen 445 times.
+
+[21:27:08] [Server thread/DEBUG] [FML]: The world 547a281e (world) may have leaked: seen 445 times.
+
+[21:27:08] [Server thread/DEBUG] [FML]: The world 1807c8d8 (world) may have leaked: seen 445 times.
+
+[21:27:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:27:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Set the time to 13000]
+[21:27:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Set own game mode to Survival Mode]
+[21:27:58] [Server thread/DEBUG] [FML]: The world 735ed13e (world) may have leaked: seen 450 times.
+
+[21:27:58] [Server thread/DEBUG] [FML]: The world 45718422 (world) may have leaked: seen 450 times.
+
+[21:27:58] [Server thread/DEBUG] [FML]: The world 2b2e005d (world) may have leaked: seen 450 times.
+
+[21:27:58] [Server thread/DEBUG] [FML]: The world 547a281e (world) may have leaked: seen 450 times.
+
+[21:27:58] [Server thread/DEBUG] [FML]: The world 1807c8d8 (world) may have leaked: seen 450 times.
+
+[21:27:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:28:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:28:48] [Server thread/DEBUG] [FML]: The world 735ed13e (world) may have leaked: seen 455 times.
+
+[21:28:48] [Server thread/DEBUG] [FML]: The world 45718422 (world) may have leaked: seen 455 times.
+
+[21:28:48] [Server thread/DEBUG] [FML]: The world 2b2e005d (world) may have leaked: seen 455 times.
+
+[21:28:48] [Server thread/DEBUG] [FML]: The world 547a281e (world) may have leaked: seen 455 times.
+
+[21:28:48] [Server thread/DEBUG] [FML]: The world 1807c8d8 (world) may have leaked: seen 455 times.
+
+[21:29:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:29:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Its_edurneee moved too quickly! -0.5888069347276996,-1.2491870787446828,-10.022632822486003
+[21:29:38] [Server thread/DEBUG] [FML]: The world 735ed13e (world) may have leaked: seen 460 times.
+
+[21:29:38] [Server thread/DEBUG] [FML]: The world 45718422 (world) may have leaked: seen 460 times.
+
+[21:29:38] [Server thread/DEBUG] [FML]: The world 2b2e005d (world) may have leaked: seen 460 times.
+
+[21:29:38] [Server thread/DEBUG] [FML]: The world 547a281e (world) may have leaked: seen 460 times.
+
+[21:29:38] [Server thread/DEBUG] [FML]: The world 1807c8d8 (world) may have leaked: seen 460 times.
+
+[21:30:05] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Its_edurneee moved too quickly! 8.010504483777595,-1.130906499714527,-6.248942765468655
+[21:30:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:30:28] [Server thread/DEBUG] [FML]: The world 735ed13e (world) may have leaked: seen 465 times.
+
+[21:30:28] [Server thread/DEBUG] [FML]: The world 45718422 (world) may have leaked: seen 465 times.
+
+[21:30:28] [Server thread/DEBUG] [FML]: The world 2b2e005d (world) may have leaked: seen 465 times.
+
+[21:30:28] [Server thread/DEBUG] [FML]: The world 547a281e (world) may have leaked: seen 465 times.
+
+[21:30:28] [Server thread/DEBUG] [FML]: The world 1807c8d8 (world) may have leaked: seen 465 times.
+
+[21:30:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:31:18] [Server thread/DEBUG] [FML]: The world 735ed13e (world) may have leaked: seen 470 times.
+
+[21:31:18] [Server thread/DEBUG] [FML]: The world 45718422 (world) may have leaked: seen 470 times.
+
+[21:31:18] [Server thread/DEBUG] [FML]: The world 2b2e005d (world) may have leaked: seen 470 times.
+
+[21:31:18] [Server thread/DEBUG] [FML]: The world 547a281e (world) may have leaked: seen 470 times.
+
+[21:31:18] [Server thread/DEBUG] [FML]: The world 1807c8d8 (world) may have leaked: seen 470 times.
+
+[21:31:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Changing to clear weather]
+[21:31:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:32:08] [Server thread/DEBUG] [FML]: The world 735ed13e (world) may have leaked: seen 475 times.
+
+[21:32:08] [Server thread/DEBUG] [FML]: The world 45718422 (world) may have leaked: seen 475 times.
+
+[21:32:08] [Server thread/DEBUG] [FML]: The world 2b2e005d (world) may have leaked: seen 475 times.
+
+[21:32:08] [Server thread/DEBUG] [FML]: The world 547a281e (world) may have leaked: seen 475 times.
+
+[21:32:08] [Server thread/DEBUG] [FML]: The world 1807c8d8 (world) may have leaked: seen 475 times.
+
+[21:32:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:32:58] [Server thread/DEBUG] [FML]: The world 735ed13e (world) may have leaked: seen 480 times.
+
+[21:32:58] [Server thread/DEBUG] [FML]: The world 45718422 (world) may have leaked: seen 480 times.
+
+[21:32:58] [Server thread/DEBUG] [FML]: The world 2b2e005d (world) may have leaked: seen 480 times.
+
+[21:32:58] [Server thread/DEBUG] [FML]: The world 547a281e (world) may have leaked: seen 480 times.
+
+[21:32:58] [Server thread/DEBUG] [FML]: The world 1807c8d8 (world) may have leaked: seen 480 times.
+
