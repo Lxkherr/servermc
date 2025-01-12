@@ -439,3 +439,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'playerstorage:interface'
 [21:00:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Set the time to 1000]
 [21:10:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Set the time to 1000]
 [21:11:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Set own game mode to Survival Mode]
+[21:17:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Set own game mode to Spectator Mode]
+[21:17:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Set own game mode to Survival Mode]
+[21:17:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Set the time to 1000]
