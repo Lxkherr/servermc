@@ -428,3 +428,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'playerstorage:interface'
 [17:55:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Changing to clear weather]
 [18:04:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Set the time to 1000]
 [18:06:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Set own game mode to Survival Mode]
+[18:22:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Its_edurneee lost connection: Disconnected
+[18:22:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee left the game
