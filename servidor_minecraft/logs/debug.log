@@ -19138,3 +19138,19 @@ SecurityCraft: Requires version v1.9.12 but mod is not found on client.
 [01:10:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Set the time to 1000]
 [01:10:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [01:11:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:12:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:12:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:13:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:14:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:15:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:15:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Its_edurneee moved too quickly! -7.478432198935934,0.12129684053920187,6.689055202305326
+[01:15:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:16:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:17:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:18:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:18:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:19:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:20:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:21:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:21:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Set the time to 1000]
+[01:21:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Set own game mode to Spectator Mode]

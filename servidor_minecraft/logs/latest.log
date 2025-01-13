@@ -549,3 +549,6 @@ SecurityCraft: Requires version v1.9.12 but mod is not found on client.
 [01:04:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Its_edurneee moved too quickly! -0.10204986651569925,-10.342366735053545,-0.04804610331461845
 [01:10:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Changing to clear weather]
 [01:10:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Set the time to 1000]
+[01:15:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Its_edurneee moved too quickly! -7.478432198935934,0.12129684053920187,6.689055202305326
+[01:21:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Set the time to 1000]
+[01:21:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Set own game mode to Spectator Mode]
