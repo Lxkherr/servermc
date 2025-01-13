@@ -434,3 +434,5 @@ Rope Bridge: Requires version 2.0.5 but mod is not found on client.
 [21:50:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Its_edurneee joined the game
 [21:50:55] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Its_edurneee'/301, l='world', x=1539.34, y=70.31, z=-1230.89] connected. Sending ping
 [21:51:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Changing to clear weather]
+[21:56:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Set the time to 1000]
+[22:01:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Its_edurneee: Changing to clear weather]
